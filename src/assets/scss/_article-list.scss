@@ -1,0 +1,25 @@
+.articleList .articleList-articleTitle {
+	margin-bottom: $spacing-scale-3;
+}
+
+.articleList .articleList-articleTitle a:link,
+.articleList .articleList-articleTitle a:visited {
+	text-decoration: none;
+	display: block;
+	color: #D0021B;
+}
+
+.articleList .articleList-articleTitle a:hover {
+	// color: #D0021B;
+}
+
+.articleList .articleList-date {
+	color: $colour-grey-600;
+	margin-bottom: 55px;
+	font-size: rem(16px);
+	line-height: rem(20px);
+	@include mq($from: md) {
+		font-size: rem(18px);
+		margin-bottom: 75px;
+	}
+}

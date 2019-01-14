@@ -1,0 +1,6 @@
+<nav class="nav">
+  <ul>
+    <li><a class="{% if id == "home" %}nav-active{% endif%}" href="/">Home</a></li>
+    <li><a class="{% if id == "articles" or page.layout == "post" %}nav-active{% endif%}" href="/articles/">Articles</a></li>
+  </ul>
+</nav>

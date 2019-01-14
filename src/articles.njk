@@ -1,0 +1,16 @@
+---
+layout: layouts/page.njk
+title: Articles
+id: articles
+heading: Articles
+sub: Here's a sub title and here's the <a href="{{site.url}}/atom.xml)">RSS feed</a>.
+---
+
+<div class="articleList">
+	{%- for article in collections.article | reverse -%}
+    <div class="articleList-article">
+      <h2 class="articleList-articleTitle"><a href="{{ article.url}}"> {{ article.data.title }} </a> </h2>
+      <p class="articleList-date"><time date-time="{{article.date}}">{{article.date | date}}</time></p>
+    </div>
+  {%- endfor -%}
+</div>

@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+---
+
+{% block body %}
+  <div class="heading">
+    <div class="heading-inner">
+      <div class="heading-measure">
+        <h1 class="heading-title">{{heading}}</h1>
+        <p class="heading-text">{{ sub | safe  }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="content">
+    <div class="content-measure">
+      {{ content | safe }}
+    </div>
+  </div>
+{% endblock %}

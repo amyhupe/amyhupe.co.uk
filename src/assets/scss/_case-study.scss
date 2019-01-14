@@ -1,0 +1,147 @@
+.hero {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 50%;
+  @include mq($from: md) {
+    height: 350px;
+  }
+
+  @include mq($from: lg) {
+    height: 450px;
+  }
+}
+
+.work {
+  border-top: 0;
+}
+
+.caseMeta-item {
+  margin-bottom: $spacing-scale-1 !important;
+}
+
+@mixin proseItem() {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: $spacing-scale-2;
+	padding-right: $spacing-scale-2;
+}
+
+.caseStudy {
+  padding-top: $spacing-scale-4;
+	padding-bottom: $spacing-scale-4;
+	@include mq($from: md) {
+		padding-top: $spacing-scale-5;
+	}
+}
+
+.caseStudy h1 {
+  @include proseItem();
+	@include typography(xl);
+	margin-bottom: $spacing-scale-4;
+	color: $colour-black;
+}
+
+.caseStudy h2 {
+  @include proseItem();
+	@include typography(l);
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: $spacing-scale-2;
+	color: $colour-black;
+	margin-top: $spacing-scale-7;
+
+	@include mq($from: md) {
+    margin-top: $spacing-scale-9;
+	}
+}
+
+.caseStudy h3 {
+  @include proseItem();
+	@include typography(body);
+	margin-bottom: $spacing-scale-1;
+	color: $colour-black;
+	margin-top: $spacing-scale-5;
+}
+
+.caseStudy p {
+  @include proseItem();
+	@include typography(body);
+	margin-bottom: $spacing-scale-4;
+	color: $colour-black;
+	@include mq($from: md) {
+		margin-bottom: $spacing-scale-4;
+	}
+}
+
+.caseStudy ol,
+.caseStudy ul {
+  @include proseItem();
+	margin-bottom: $spacing-scale-4;
+	color: $colour-black;
+}
+
+.caseStudy ol li,
+.caseStudy ul li {
+  @include typography(body);
+	margin-left: $spacing-scale-4;
+	margin-bottom: $spacing-scale-1;
+}
+
+.caseStudy blockquote {
+  @include proseItem();
+	font-style: italic;
+	margin-top: $spacing-scale-6;
+	margin-bottom: $spacing-scale-6;
+	color: $colour-black;
+}
+
+.caseStudy blockquote p {
+  padding-left: $spacing-scale-4;
+  padding-right: $spacing-scale-4;
+}
+
+.caseStudy blockquote cite {
+	font-weight: bold;
+}
+
+.caseStudy p code,
+.caseStudy ul code,
+.caseStudy li code {
+	font-size: 1.2em;
+	color: $colour-blue-500;
+}
+
+
+.caseStudy figure {
+  max-width: 880px;
+  padding-left: $spacing-scale-2;
+	padding-right: $spacing-scale-2;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: $spacing-scale-4;
+	margin-bottom: $spacing-scale-4;
+	@include mq($from: md) {
+		margin-top: $spacing-scale-6;
+		margin-bottom: $spacing-scale-6;
+	}
+}
+
+.caseStudy figure img {
+	margin-bottom: $spacing-scale-1;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.caseStudy figure figcaption {
+	font-size: 0.81em;
+	font-style: italic;
+
+	padding-top: $spacing-scale-1;
+	text-align: center;
+	@include mq($from: md) {
+		font-size: 1em;
+	}
+}

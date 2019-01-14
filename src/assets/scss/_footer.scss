@@ -1,0 +1,59 @@
+.footer {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	@include mq($from: md) {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+}
+
+.footer-measure {
+	max-width: 1200px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+	@include mq($from: 800px) {
+		overflow: hidden;
+	}
+
+	@include mq($from: 1240px) {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.footer-logo {
+	line-height: 30px;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: 'Circular Std';
+	margin-bottom: 25px;
+	@include mq($from: 800px) {
+		float: left;
+	}
+}
+
+.footer-nav {
+	@include mq($from: 800px) {
+		float: right;
+	}
+}
+
+.footer-list {
+	font-size: 16px;
+	line-height: 25px;
+	list-style: none;
+	margin-bottom: 25px;
+
+	@include mq($from: 800px) {
+		line-height: 30px;
+		font-size: 18px;
+		float: left;
+		width: 165px;
+		padding-right: 41px;
+	}
+}
+
+.footer a {
+	color: $colour-black;
+}
