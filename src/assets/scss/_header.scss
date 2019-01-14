@@ -1,5 +1,4 @@
 .header {
-	background: #fff;
 	@include mq($from: 600px) {
 		border-bottom: 1px solid #E8E4E4;
 	}
