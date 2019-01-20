@@ -21,7 +21,7 @@
 	display: block;
 	color: $colour-grey-600;
 	padding: 15px 15px 15px;
-	border-bottom: 5px solid #fff;
+	border-bottom: 5px solid #eee;
 	@include mq($from: 600px) {
 		padding-top: 17px;
 		padding-bottom: 20px;
@@ -37,22 +37,7 @@
 	color: $colour-black;
 }
 
-.nav a:active,
-.nav a.nav-active:active {
-	background-color: #494A4C;
-}
-
-.nav a:active {
-	background-color: #494A4C;
-	border-color: #494A4C;
-}
-
-.nav a.nav-active:active {
-	border-color: $colour-blue-500;
-}
-
 .nav a.nav-active {
-	font-weight: bold;
 	color: $colour-black;
 	border-bottom: 5px solid #494A4C;
 }

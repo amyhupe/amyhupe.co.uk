@@ -1,6 +1,7 @@
 .header {
+	background: #eee;
 	@include mq($from: 600px) {
-		border-bottom: 1px solid #E8E4E4;
+		// border-bottom: 1px solid #E8E4E4;
 	}
 }
 
@@ -16,13 +17,12 @@
 }
 
 .header-logo {
-	margin-top: 20px;
+	padding-top: 20px;
 	margin-bottom: 20px;
 	padding-left: 20px;
 	line-height: 30px;
 	font-size: 24px;
 	font-weight: bold;
-	font-family: 'Circular Std';
 
 	a {
 		color: #494A4C;
@@ -31,7 +31,7 @@
 
 	@include mq($from: 600px) {
 		float: left;
-		margin-top: 25px;
+		padding-top: 25px;
 	}
 	@include mq($from: 1240px) {
 		padding-left: 0;

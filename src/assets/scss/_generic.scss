@@ -45,10 +45,8 @@ main {
 
 .heading {
 	padding-top: 50px;
-	// padding-bottom: 50px;
 	@include mq($from: md) {
 		padding-top: 110px;
-		// padding-bottom: 110px;
 	}
 }
 
@@ -63,8 +61,12 @@ main {
 }
 
 .heading-measure {
-	border-left: 10px solid #494A4C;
-	padding-left: 30px;
+	border-left: 5px solid #494A4C;
+	padding-left: 20px;
+	@include mq($from: md) {
+		border-left: 10px solid #494A4C;
+		padding-left: 30px;
+	}
 }
 
 .heading-label {
@@ -98,6 +100,7 @@ main {
 	font-size: rem(22px);
 	line-height: rem(30px);
 	max-width: 800px;
+	color: #494A4C;
 	@include mq($from: md) {
 		font-size: rem(24px);
 		line-height: rem(35px);
@@ -135,8 +138,8 @@ main {
 	line-height: rem(30px);
 	margin-bottom: 20px;
 	margin-top: 55px;
-	font-family: 'Circular Std';
 	max-width: 620px;
+	color: #494A4C;
 
 	@include mq($from: md) {
 		font-size: rem(45px);
@@ -152,8 +155,8 @@ main {
 .content h3 {
 	font-size: rem(19px);
 	line-height: rem(25px);
-	font-family: 'Circular Std';
 	margin-bottom: 5px;
+	color: #494A4C;
 
 	@include mq($from: md) {
 		font-size: rem(23px);
@@ -172,6 +175,7 @@ main {
 	font-size: rem(18px);
 	line-height: rem(25px);
 	margin-bottom: 25px;
+	color: #494A4C;
 
 	@include mq($from: md) {
 		font-size: rem(22px);
@@ -203,7 +207,7 @@ main {
 .content pre {
 	overflow-x: scroll;
 	font-family: 'Fira Mono', Monaco,'Courier New','Courier',monospace;
-	color: $colour-black;
+	color: #494A4C;
 	background-color: $colour-white;
 	margin-bottom: $spacing-scale-5;
 	padding: $spacing-scale-4;
@@ -335,30 +339,13 @@ iframe {
 }
 
 .article-date {
-	color: $colour-grey-400;
+	color: #808082;
 	font-size: rem(18px);
 	line-height: rem(25px);
-	font-weight: bold;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 
 	@include mq($from: md) {
 		font-size: rem(20px);
-	}
-}
-
-.caseStudy-meta {
-	color: $colour-greengrey-500;
-	font-size: rem(18px);
-	line-height: rem(25px);
-	@include mq($from: md) {
-		font-size: rem(20px);
-	}
-}
-
-.article-signUp {
-	margin-top: 50px;
-	@include mq($from: md) {
-		margin-top: 100px;
 	}
 }
