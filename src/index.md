@@ -16,5 +16,5 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 
 ## Latest articles
 
-[Don't mitsake volume for confidence](/articles/dont-mistake-volume-for-confidence/)
+[Don't mistake volume for confidence](/articles/dont-mistake-volume-for-confidence/)
 
