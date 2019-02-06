@@ -20,3 +20,10 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 
 [Why every design system needs a service designer](/articles/why-every-design-system-needs-a-service-designer/)
 
+## Things I've written elsewhere
+
+[How we document components and patterns in the GOV.UK Design System](https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/)
+
+[Opening up the GOV.UK Design System for contribution](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/)
+
+[Introducing the GOV.UK Design System](https://gds.blog.gov.uk/2018/06/22/introducing-the-gov-uk-design-system/)
