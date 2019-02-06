@@ -74,7 +74,7 @@ From helping us provide the best possible support to users when they get stuck, 
 
 By challenging us to be more considerate, more inclusive and more accommodating to our users, she’s taken us from building a product to delivering a service that puts people at its heart.
 
----
+## The value of service design
 
 The value of service design can be tricky to quantify. It’s not one thing, but a thousand little things. From a shared sense of purpose cultivated within a team or community, to the collection of incremental improvements that combine to transform user experiences.
 
