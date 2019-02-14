@@ -22,6 +22,8 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 
 ## Things I've written elsewhere
 
+[How the GOV.UK Design System can work alongside other government design resources](https://designnotes.blog.gov.uk/2019/02/14/how-the-gov-uk-design-system-can-work-alongside-other-government-design-resources)
+
 [How we document components and patterns in the GOV.UK Design System](https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/)
 
 [Opening up the GOV.UK Design System for contribution](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/)
