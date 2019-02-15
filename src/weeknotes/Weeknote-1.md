@@ -26,7 +26,7 @@ I managed to get something published on the GOV.UK Design Notes blog. I wrote ab
 
 ### I worked on some actual content
 
-A huge chunk of my time as a content designer is spent researching, planning, reviewing and advising on content. I also do a lot of work on the Design System's [contribution process](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/), keeping an eye on how well it's working and how we can improve it. Add to that meetings to go to, events to attend and general admin, and it sometimes feels like I don't spend much time working directly on content. 
+A huge chunk of my time as a content designer is spent researching, planning, reviewing and advising on content. I also do a lot of work on the [Design System's contribution process](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/), keeping an eye on how well it's working and how we can improve it. Add to that meetings to go to, events to attend and general admin, and it sometimes feels like I don't spend much time working directly on content. 
 
 This week I got stuck into some good old fashioned writing and editing, and it was like reuiniting with a familiar old friend. I'm going to try and make some more time to do that in the next few weeks. 
 
@@ -62,6 +62,6 @@ Next week, I want to be much more mindful of this, asking myself "how much of a 
 4. Lunch breaks are a worthy investment.
 5. Prioritisation should be based on the big picture, not single conversations.
 
-And there we have it. That concludes my first weeknotes. Thank you to anyone who might have taken the time to read this waffle, I'll be back with some more next week. 
+And there we have it. That concludes my first weeknote. Thank you to anyone who might have taken the time to read this waffle, I'll be back with some more next week. 
 
 P.S. Dad, if you could consolidate your corrections and suggestions into one text message, I'd be really grateful. Love you ;)
