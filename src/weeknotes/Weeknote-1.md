@@ -8,7 +8,7 @@ description: My very first weeknote
 
 Hello and welcome to my first weeknote. 
 
-I hope that these will encourage me write regulary, remember what on earth I'm doing, and take stock of where I am with things.
+I hope that these will encourage me to write regulary, remember what on earth I'm doing, and take stock of where I am with things.
  
 I journal pretty regularly on a personal basis. It helps me recognise that my moods and experiences are transient, even if I'm having a bad moment. It gives me a lot of perspective, so applying the same approach professionally seemed like a good thing to do.
 
