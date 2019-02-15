@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/article.njk",
+  "permalink": "/weeknotes/{{page.fileSlug}}/index.html",
+  "tags": "weeknotes"
+}
