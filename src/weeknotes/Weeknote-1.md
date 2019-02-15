@@ -28,7 +28,7 @@ I managed to get something published on the GOV.UK Design Notes blog. I wrote ab
 
 A huge chunk of my time as a content designer is spent researching, planning, reviewing and advising on content. I also do a lot of work on the [Design System's contribution process](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/), keeping an eye on how well it's working and how we can improve it. Add to that meetings to go to, events to attend and general admin, and it sometimes feels like I don't spend much time working directly on content. 
 
-This week I got stuck into some good old fashioned writing and editing, and it was like reuiniting with a familiar old friend. I'm going to try and make some more time to do that in the next few weeks. 
+This week I got stuck into some good old fashioned writing and editing, and it was like reuniting with a familiar old friend. I'm going to try and make some more time to do that in the next few weeks. 
 
 ### I had 3 proper lunch breaks
 
@@ -39,7 +39,7 @@ This week, I had 2 lunches with friends from work, and a third just wandering ar
 ### Other stuff I liked
 
 - Learning some HTML and CSS from Dave, an interaction designer on our team
-- Tuning into the [NHS Digital show and tell](https://www.youtube.com/watch?v=C8dfgJQ8JEo) where they showcased their new service manual, frontent toolkit, prototype kit and content standards
+- Tuning into the [NHS Digital show and tell](https://www.youtube.com/watch?v=C8dfgJQ8JEo) where they showcased their new service manual, frontend toolkit, prototype kit and content standards
 - Having after work drinks and pizza with some of my team on Tuesday
 - A conversation at work where I realised out loud and on the spot that if I won the lottery, I'd still do my job out of choice
 - The return of the Sun (shine, not the tabloid)
