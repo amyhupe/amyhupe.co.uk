@@ -65,9 +65,9 @@ I got a tonne of really useful responses.
 
 There was an overwhelming preference for using realistic copy, as it:
 
-helps users to understand the context in which something could be used, without having to imagine it
-makes it easier to evaluate the efficacy and appropriateness of a component or pattern
-gives hints about the correct content formatting, like length, case, grammar and punctuation
+- helps users to understand the context in which something could be used, without having to imagine it
+-makes it easier to evaluate the efficacy and appropriateness of a component or pattern
+- gives hints about the correct content formatting, like length, case, grammar and punctuation
 
 However, instructive copy does have some advantages. A system would struggle to predict every possible application of its components and prescribe a precise solution. And it shouldn’t try to either. 
 
