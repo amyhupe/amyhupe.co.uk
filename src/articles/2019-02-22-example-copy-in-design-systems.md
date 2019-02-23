@@ -88,9 +88,7 @@ One benefit of instructive example copy is that some consistency can still be es
 
 And there’s always the option of a hybrid approach. At least 2 people told me they use a mixture of instructive and realistic example copy.
 
-Deliveroo use this approach in their [content design examples](https://medium.com/deliveroo-design/content-design-systems-need-you-82836afb4fe6). Instructive copy provides the structure and usage guidance, whilst a realistic example puts it into context.
-
-For example, their toggles and switches pattern copy is:
+Deliveroo uses this approach in their [content design examples](https://medium.com/deliveroo-design/content-design-systems-need-you-82836afb4fe6). For example, their toggles and switches pattern copy is:
 
 **Toggle on**
 
