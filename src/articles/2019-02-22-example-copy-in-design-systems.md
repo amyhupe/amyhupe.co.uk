@@ -47,6 +47,13 @@ Welcome back to my original question. In the case of design system examples, is 
 
 In the [GOV.UK Design System](https://design-system.service.gov.uk/), which I work on, we use realistic copy in most of our examples.
 
+<div class="image">
+	<figure>
+		<img src="/assets/images/radio-buttons.png" alt="a screenshot of an example from the GOV.UK Design System, showing a set of radio buttons underneath the question ‘where do you live?’. The first option, ‘England’ is selected." width="100%">
+		<figcaption>Radio buttons example in the GOV.UK Design System using realistic copy.</figcaption>
+	</figure>
+</div>
+
 We’ve found it helps to give our users an idea of how something works in context and shows, at least implicitly, what good copy looks like. 
 
 This works especially well for things where the context is specific, like our [asking for names](https://design-system.service.gov.uk/patterns/names/) or [email addresses](https://design-system.service.gov.uk/patterns/email-addresses/) patterns. In these cases, a Design System user can just take the copy and it will likely make sense in their service.
