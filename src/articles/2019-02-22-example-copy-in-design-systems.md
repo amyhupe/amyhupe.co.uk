@@ -112,7 +112,7 @@ In these instances, there’s less of a need to tailor the copy, so instructive 
 
 ## And what about Lorem Ipsum?
 
-Frankly, it wasn’t popular. Not one person in my Twitter thread recommended using it, and many warned against doing. Not least because of the risk of [Lorem Ipsum ending up in live services by mistake](https://www.simplysigns.com/lorem-ipsum-fails/).
+Frankly, it wasn’t popular. Not one person in my Twitter thread recommended using it, and many warned against doing so. Not least because of the risk of [Lorem Ipsum ending up in live services by mistake](https://www.simplysigns.com/lorem-ipsum-fails/).
 
 Using realistic or instructive copy in design system examples are a much better way to communicate the intention and use of a component or pattern.
 
