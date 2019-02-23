@@ -278,7 +278,7 @@ main {
 	font-weight: bold;
 }
 
-.content-indent figure {
+.content-measure figure {
 	margin-bottom: $spacing-scale-9;
 	max-width: 900px;
 	@include mq($from: lg) {
@@ -286,7 +286,7 @@ main {
 	}
 }
 
-.content-indent .image--small figure {
+.content-measure .image--small figure {
 	@include mq($from: md) {
 		margin-left: 0;
 	}
