@@ -11,19 +11,19 @@ But first things first.
 
 ## What is a design system?
 
-Design systems help organisations create consistency across one or more products. In large organisations especially, they also stop teams from having to solve problems that have been solved before by other teams.
+Design systems help organisations create consistency across one or more products. In large organisations especially, they also stop teams from having to solve problems that have already been solved by other teams.
 
-You’ll find many a definition of design systems floating around the internet and in books (remember books?).
-
-For the purposes of this article, I’m defining a design system as a collection of:
+You’ll find many a definition of design systems floating around the internet and in books (remember books?) but in this article, I’m defining a design system as a collection of:
 
 - code and tools, like design layout or prototype-making software
 - processes like peer reviews and quality assurance
 - best practice guidelines like content and visual style guides 
 - reusable designs for common user interface elements like buttons, tables, links, headers and footers 
-- solutions or “design patterns” for common user tasks like signing in or out of a website, searching for something or filling in a form
+- solutions or design patterns for common user tasks like signing in or out of a website, searching for something or filling in a form
 
-Design systems contain lots of documented examples, and those examples often include copy.
+Design systems contain lots of documented examples, and those examples often include copy. 
+
+This copy doesn't replace a general content style guide, but it can help to reinforce best practice, and give guidance for more specific scenarios.
 
 ## Types of example copy
 
@@ -35,7 +35,7 @@ Instructive copy describes what information is needed to replace it. For instanc
 
 ### Realistic copy
 
-Realistic copy is what it sounds like – it’s an example of the actual copy that might be used in a real-life situation. In the button example, realistic copy might be “Confirm and send” or “Get a quote”.
+Realistic copy is what it sounds like. It’s an example of the actual copy that might be used in a real-life situation. In the button example, realistic copy might be “Confirm and send” or “Get a quote”.
 
 ### Placeholder copy
 
@@ -43,17 +43,19 @@ Placeholder copy is dummy text, the most famous example being [Lorem Ipsum](http
 
  ## Which type of copy works best in design system examples?
 
-Welcome back to my original question. In the case of design system examples, is it best to use instructive, realistic or placeholder copy, a mix of 2 or more of those, or something else entirely?
+Welcome back to my original question. In the case of design system examples, is it best to use instructive, realistic or placeholder copy, a mix of these, or something else entirely?
 
 In the [GOV.UK Design System](https://design-system.service.gov.uk/), which I work on, we use realistic copy in most of our examples.
 
-We’ve found it helps to give our users a good idea of how something works in context and shows, at least implicitly, what good copy looks like. 
+We’ve found it helps to give our users an idea of how something works in context and shows, at least implicitly, what good copy looks like. 
 
 This works especially well for things where the context is specific, like our [asking for names](https://design-system.service.gov.uk/patterns/names/) or [email addresses](https://design-system.service.gov.uk/patterns/email-addresses/) patterns. In these cases, a Design System user can just take the copy and it will likely make sense in their service.
 
 But for other things, like a [text input](https://design-system.service.gov.uk/components/text-input/) or [table component](https://design-system.service.gov.uk/components/table/) we really can’t know what context it’s going to be used in. 
 
-If the user’s context is different, which it often will be, we’re not providing them with a template or structure that they can tailor to their needs. With realistic copy, they’ll simply have to adapt what we’ve given to suit their use case. 
+If the user’s context is different, which it often will be, we’re not providing them with a template or structure that they can tailor to their needs. 
+
+With realistic copy, they’ll have to adapt what we’ve given to suit their use case, or start from scratch. 
 
 In this instance, is instructive copy more useful? Should we stick with realistic copy, but provide more examples to cover the most popular use cases? Should we use a combination?
 
@@ -76,7 +78,7 @@ One benefit of instructive example copy is that some consistency can still be es
 
 And there’s always the option of a hybrid approach. At least 2 people told me they use a mixture of instructive and realistic example copy.
 
-Deliveroo uses this approach in their [content design examples](https://medium.com/deliveroo-design/content-design-systems-need-you-82836afb4fe6). Instructive copy provides the structure and usage guidance, whilst a realistic example puts it into context.
+Deliveroo use this approach in their [content design examples](https://medium.com/deliveroo-design/content-design-systems-need-you-82836afb4fe6). Instructive copy provides the structure and usage guidance, whilst a realistic example puts it into context.
 
 For example, their toggles and switches pattern copy is:
 
@@ -88,17 +90,15 @@ _Subcopy: [The result of the on state] for example, You’ll get notifications_
 **Toggle off**
 
 _Label: [The thing] for example, Notifications_
-_Subcopy: [The result of the off state] for example, No notifications for you_
+_Subcopy: [The result of the off state] for example, No notifications for you_ 
 
-They explain the reasoning for the structure and recommendation in surrounding guidance, and provide further clarification with an example showing what not to do. 
+In this example, instructive text allows Deliveroo to communicate the structure and intention of the copy, while realistic copy shows how it works in practice. 
 
-In this example, the instructive text allows Deliveroo to communicate the structure and intention of the copy, while the realistic example shows how it works in practice. 
+## Is a mix of instructive and realistic copy the answer?
 
-## Is a combination of instructive and realistic copy the answer?
+Using a hybrid approach like Deliveroo has definite advantages. It enables users to find content design guidelines and best practice examples in one place. 
 
-Using a hybrid approach like Deliveroo has definite advantages. It enables users to find both content design guidelines and best practice examples in one place. 
-
-That said, I’d use it with caution for more context-specific patterns, like asking users for common information like names or addresses, or familiar interactions like signing in or out. 
+That said, I’d use it with caution for context-specific patterns. For example, asking users for common information like names or addresses, or familiar interactions like signing in or out. 
 
 In these instances, there’s less of a need to tailor the copy, so instructive text may well be overkill. An example with realistic, well-tested copy is probably all you need. 
 
@@ -108,7 +108,9 @@ Frankly, it wasn’t popular. Not one person in my Twitter thread recommended us
 
 Using realistic or instructive copy in design system examples are a much better way to communicate the intention and use of a component or pattern.
 
-There’s also an implication that by using placeholder copy in designs, the content is being treated as an add on. As a content designer, I probably don’t need to explain why I find that uncomfortable.
+There’s also an implication that by using placeholder copy in designs, the content is being treated as an add on. 
+
+As a content designer, I probably don’t need to explain why that doesn't sit well with me.
 
 As [Eli Montgomery](https://twitter.com/Intentionaut/status/1097779673709400065) put it:
 
@@ -117,7 +119,3 @@ _"Content matters and designing with fake content means we're not going to make 
 _Design makes content work. Not the other way around."_
 
 A big thank you to everyone who responded to my Tweet and helped inform this article. If this sparked your interest, you can [read the whole thread on Twitter](https://twitter.com/Amy_Hupe/status/1097455807908716544).
-
-
-
-
