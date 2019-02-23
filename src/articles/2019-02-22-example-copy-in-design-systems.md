@@ -66,7 +66,10 @@ With realistic copy, they’ll have to adapt what we’ve given to suit their us
 
 In this instance, is instructive copy more useful? Should we stick with realistic copy, but provide more examples to cover the most popular use cases? Should we use a combination?
 
-I wanted to find out what other people were doing, so [I took to Twitter and asked](https://twitter.com/Amy_Hupe/status/1097455807908716544).
+I wanted to find out what other people were doing, so I went on Twitter and asked.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">People who work on <a href="https://twitter.com/hashtag/designsystems?src=hash&amp;ref_src=twsrc%5Etfw">#designsystems</a> I have a question. When an example includes copy, like the words on a button, do you use:<br><br>- instructive/illustrative text eg “button text goes here”<br>- realistic copy eg “submit” <br>- Lorem Ipisum <br>- a mixture of those<br>- something else<br><br>And why?</p>&mdash; Amy Hupe (@Amy_Hupe) <a href="https://twitter.com/Amy_Hupe/status/1097455807908716544?ref_src=twsrc%5Etfw">February 18, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## What Twitter thought
 

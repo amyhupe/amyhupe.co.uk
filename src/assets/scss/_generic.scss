@@ -281,15 +281,6 @@ main {
 .content-measure figure {
 	margin-bottom: $spacing-scale-9;
 	max-width: 900px;
-	@include mq($from: lg) {
-		margin-left: -100px;
-	}
-}
-
-.content-measure .image--small figure {
-	@include mq($from: md) {
-		margin-left: 0;
-	}
 }
 
 figure img {
