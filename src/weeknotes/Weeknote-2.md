@@ -43,7 +43,7 @@ Not knowing much about this stuff hasn’t prevented me from doing my job. In ma
 
 I’m also hoping that this will allow me to make the odd change to my site here without always having to bother [Adam](https://adamsilver.io/). (Sorry Adam!)
 
-On Thursday, I got to watch Ollie – our team’s tech lead – deliver a fantastic [talk on how we build inclusive forms](https://www.youtube.com/watch?v=HJshEsMH_tg) at the [London Accessibility meetup](https://www.meetup.com/London-Accessibility-Meetup/https://www.meetup.com/London-Accessibility-Meetup/). I knew some of what he said already, but I learned a lot of new stuff too. Seeing it all pulled together really brought home how much care and effort goes into making things accessible, and it makes me really proud to work somewhere that prioritises doing so. 
+On Thursday, I got to watch Ollie – our team’s tech lead – deliver a fantastic [talk on how we build inclusive forms](https://www.youtube.com/watch?v=HJshEsMH_tg) at the [London Accessibility meetup](https://www.meetup.com/London-Accessibility-Meetup/). I knew some of what he said already, but I learned a lot of new stuff too. Seeing it all pulled together really brought home how much care and effort goes into making things accessible, and it makes me really proud to work somewhere that prioritises doing so. 
 
 Ollie’s also published [a list of references for the talk](https://obyford.com/posts/inclusive-forms/) which are well worth a read.
 
