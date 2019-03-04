@@ -12,13 +12,13 @@ There’s lots to say about this work, but for now I want to focus on this parag
 
 _“Designers and developers want to focus their time on solving the problems unique to their product, instead of spending time reinventing the wheel on things like how navigation should work or what a button should look like.”_
 
-I was surprised but happy to see this phrasing used in place of the common alternative, which says that “Design systems solve the easy problems, so teams can focus on fixing the hard ones”.
+I was surprised but happy to see this statement used in place of the common alternative, which says that “Design systems solve the easy problems, so teams can focus on fixing the hard ones”.
 
 Let me explain.
 
 ## Design systems fix the common problems, not the easy ones
 
-Design systems exist to stop teams doubling up their efforts fixing common problems, like how to write an error message or create a call to action on a page.
+Design systems exist to stop teams doubling up their efforts fixing common, recurring problems, like how to write an error message or create a call to action on a page.
 
 By providing tried and tested solutions to these problems, supported with usage guidelines and code, they can reduce duplication of effort and create consistency across one or more products. 
 
@@ -42,11 +42,11 @@ It’s far better to sell a system on its strengths, and with an honest portraya
 
 By saying “Design systems solve the easy problems, so teams can focus on fixing the hard ones”, it suggests that design system problems are solely the responsibility of a design system team. 
 
-But contribution and participation from the wider community is integral to a system’s success – a good design system needs to fairly represent the people it serves. 
+But contribution and participation from the wider community is integral to a system’s success. A good design system needs to fairly represent the people it serves. 
 
-That means sharing responsibility for creating, maintaining and evolving the components and patterns it contains.   
+That means sharing responsibility for creating, maintaining and evolving the components and patterns provided.   
 
-Put simply, you'll only make a design system that works for the whole community, if the whole community takes part.
+Put simply, you'll only end up with a design system that works for the whole community, if the whole community helps to build it.
 
 ## A design system is not just a set of patterns
 
@@ -73,7 +73,7 @@ The job of a product or service team is to deliver helpful, considerate and posi
  
 The job of a design system is to provide a start point for the _common_ problems–a set of reusable solutions validated through robust research, and continually iterated upon with help from the community.
 
-It's only by sharing the load of our problems, both the easy and the hard ones, that we'll have a chance of solving them.
+It's only by sharing the load of our problems, both the easy and the hard ones, that we'll stand a chance of solving them.
 
 ## Acknowledgements
 
