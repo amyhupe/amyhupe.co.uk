@@ -26,7 +26,7 @@ But ask almost anyone who has worked on or contributed to a design system and th
 
 Making something that meets the needs of hundreds, maybe thousands of users, accommodates organisational requirements and limitations, and is versatile enough to be reused, is really very hard indeed. 
 
-## Hard work is your best selling point so don't understate it
+## Hard work is your best selling point, don't understate it
 
 I don’t have evidence for this, but I strongly suspect that one reason we describe design system problems as “easy” is because we think it’ll help drive adoption.
 
@@ -36,7 +36,9 @@ After all, who on earth would want to waste their time doing something as menial
 
 It’s a nice narrative, but it doesn’t hold up. It’s too reductive and it undermines the hard work of design system teams and contributors. 
 
-It’s far better to sell a system on its strengths, and with an honest portrayal of all the hard work that’s gone into it. 
+Not just that, but it's precisely the kind of hard work that goes into laying the foundations that makes people _want_ to use a design system.  
+
+It’s far better to sell it on its strengths, and with an honest portrayal of all the hard work that’s gone into it. 
 
 ## Design system problems are everyone's problems
 
