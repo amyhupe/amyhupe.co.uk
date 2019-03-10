@@ -1,11 +1,7 @@
 ---
 
 title: Weeknote 3
-<<<<<<< HEAD
 date:   2019-03-03 
-=======
-date:   2019-03-02 
->>>>>>> abe7fa547441a649189817ab3cc920096a8460ed
 categories:
 description: The value of fresh perspective, why descoping is important and avoiding burnout, all in a week's work. 
 ---
