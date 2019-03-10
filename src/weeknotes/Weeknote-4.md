@@ -34,7 +34,6 @@ This week, though, merits a special mention. In particular:
 
 - The launch of a [kickstarter campaign](https://www.kickstarter.com/projects/adaysnotenough/adaysnotenough-the-book?ref=project_link) to fund [Audree Fletcher](https://twitter.com/avfletcher)’s A Day is Not Enough, a brilliant book that will celebrate the women influencing social design, digital and tech.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ADaysNotEnough?src=hash&amp;ref_src=twsrc%5Etfw">#ADaysNotEnough</a>: the book, officially launched on Kickstarter. Find out more here: <a href="https://t.co/6rjrZg6L4l">https://t.co/6rjrZg6L4l</a> <a href="https://t.co/pvTBJkZUpD">pic.twitter.com/pvTBJkZUpD</a></p>&mdash; Audree Fletcher (@avfletcher) <a href="https://twitter.com/avfletcher/status/1103807542675812355?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - Eating not 1 but 2 portions of pancakes on Tuesday. Lemon and sugar for the win, in my humble opinion. 
 - Reading a fiction book that’s entirely unrelated to my job, something I do far too infrequently. 
