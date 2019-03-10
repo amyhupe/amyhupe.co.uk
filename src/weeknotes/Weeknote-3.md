@@ -1,7 +1,11 @@
 ---
 
 title: Weeknote 3
+<<<<<<< HEAD
 date:   2019-03-03 
+=======
+date:   2019-03-02 
+>>>>>>> abe7fa547441a649189817ab3cc920096a8460ed
 categories:
 description: The value of fresh perspective, why descoping is important and avoiding burnout, all in a week's work. 
 ---
@@ -54,7 +58,7 @@ To name just a few, there's been:
 
 - an unexpected spike in our team's support requests
 - a number of end of year feedback requests from my colleagues
-- a number of simultaneous but unrelated requests for Design Systsm background information and rationale for past decisions, from various different people
+- a number of simultaneous but unrelated requests for Design System background information and rationale for past decisions, from various different people
 - an almost laughable incident of getting stuck in a corridor without my building pass, followed immediately by a fire alarm and evacuation, during a call which I was facilitating
 
 Aside from the fire alarm, these were all important things to deal with, but I've not done the best job at deprioritisng my other work to make space for them.
