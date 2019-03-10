@@ -24,7 +24,7 @@ There aren’t many weeks where I don’t feel consciously impressed by and grat
 
 This week, though, merits a special mention. In particular:
 
-- hearing about the research [Frankie(https://twitter.com/frankieroberto) and [Nadia](https://twitter.com/nadia_huq) have been doing into [how to ask users for their ethnicity](https://designnotes.blog.gov.uk/2019/01/29/researching-how-we-ask-users-about-their-ethnicity/) as we kick off work on a new pattern for the Design System
+- hearing about the research [Frankie](https://twitter.com/frankieroberto) and [Nadia](https://twitter.com/nadia_huq) have been doing into [how to ask users for their ethnicity](https://designnotes.blog.gov.uk/2019/01/29/researching-how-we-ask-users-about-their-ethnicity/) as we kick off work on a new pattern for the Design System
 - getting help from the always-insightful [Jen](https://twitter.com/Jenny__Anne), head of technical writing at GDS, on a format for a content planning session I was organising with the team
 - said content planning session with the team, where they mapped the information users would need to make their first prototype
 - receiving a super interesting, helpful and entirely impromptu explanation of web performance from head of frontend development, [Matt](https://twitter.com/TheRealNooshu), who sits opposite me and, when not answering my inane questions about how to clean my laptop screen on or whether I should have a fifth Oreo, is often kind enough to share his wealth of knowledge on all things frontend development with me
