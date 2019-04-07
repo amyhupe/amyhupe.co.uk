@@ -12,9 +12,7 @@ A week of heavy learning, community kindness and continuing to wrestle my demons
 
 ### Cross-gov design meetup #27
 
-On Tuesday I went to the 27th cross-government design meetup to hear about all things innovation. As [Lou](https://twitter.com/LouiseDowne) pointed out in their introduction, the term “innovation” makes many of us balk and quietly disengage from the conversation.
-
-But the speakers did a fantastic job at cutting through the eye-roll-inducing associations and providing examples of when innovation really works.
+On Tuesday I went to the 27th cross-government design meetup to hear about all things innovation. The term “innovation” makes many of us balk and quietly disengage from the conversation. But the speakers did a fantastic job at cutting through the eye-roll-inducing associations and providing examples of when innovation really works.
 
 [Kay](https://twitter.com/kayjdale) talked about her work as a service designer on GovTech Catalyst, which awards funds to selected public sector projects, enabling them to explore how emerging technology might help them solve problems. Kay called for us to change the narrative around failure, reminding us that healthy failure is a key part of innovation.
 
