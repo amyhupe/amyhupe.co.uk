@@ -37,7 +37,7 @@ There’s definitely room for improvement, but for now I’m taking a quick sec 
 ### Other things I liked
 
 - [Dries](https://twitter.com/Dries)’ article on [the privilege of time in open source](https://dri.es/the-privilege-of-free-time-in-open-source) which was useful and incredibly timely as we’re currently looking at ways to make our contribution model more inclusive.
-- Bakken & Bæck’s wonderfully clear and helpful [diversity and inclusion guidebook](](https://bakkenbaeck.com/diversity-inclusion/)) which [Debs](https://twitter.com/firstname_debs) shared with me when we were chatting about how to start creating a shared language around diversity and inclusion.
+- Bakken & Bæck’s wonderfully clear and helpful [diversity and inclusion guidebook](https://bakkenbaeck.com/diversity-inclusion/) which [Debs](https://twitter.com/firstname_debs) shared with me when we were chatting about how to start creating a shared language around diversity and inclusion.
 - [Matt](https://twitter.com/TheRealNooshu/status/1118883244345368578)’s article on [why web performance matters](https://technology.blog.gov.uk/2019/04/18/why-we-focus-on-frontend-performance/)–it’s clear, human and accessible to those of us with less technical knowledge. A big thumbs up from me.
 - [Dave](https://twitter.com/iknowdavehouse)’s blog post on the work he does to [expose everyday user problems to large organisations](https://medium.com/@davehouse_80809/voice-of-the-users-67c025ba3a81).
 
