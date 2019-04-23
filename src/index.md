@@ -16,6 +16,8 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 
 ## Latest articles
 
+[Communicating inclusively beyond our products, servcices and users](/articles/communicating-inclusively-beyond-products-services-users/)
+
 [The myth that design systems solve easy problems](/articles/the-myth-that-design-systems-solve-easy-problems/)
 
 [Handling example copy in design systems](/articles/example-copy-in-design-systems/)
