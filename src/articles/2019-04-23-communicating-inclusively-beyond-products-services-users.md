@@ -3,7 +3,7 @@
 title: Communicating inclusively beyond our products, services and users
 date:   2019-04-23
 categories: 
-description: Why we should stop saying design systems solve the easy problems, so you can focus on the hard ones
+description: Why the need for inclusive communication goes beyond products, services and users. How to communicate inclusively with colleagues and professional peers. 
 ---
 
 Inclusive communication lets people access and understand it, and feel safe and empowered to respond. It's being clear, honest, and mindful of the impact what we’re saying might have on those who encounter it. 
@@ -15,11 +15,11 @@ We also need to consider how we talk _about_ our work, and other people’s. Whe
 
 I believe we need to think beyond how we communicate with our users, and examine how we communicate with our colleagues and peers in the wider community, too.
 
-Here, I’ll explain why using inclusive communication outside of a product or service matters, and how to do it.
+Here, I’ll explain why using inclusive communication outside of a product or service matters, and what it means in practice.
 
 ## Why inclusive communication matters
 
-If we want to make an inclusive web, we need to foster an inclusive environment within which to make it. 
+If we want to make an inclusive web, we need to foster an inclusive environment in which to make it. 
 
 Speaking on complexity of tooling, [Jeremy Keith said](https://abookapart.com/blogs/press/get-to-know-jeremy-keith/):
 
@@ -51,7 +51,7 @@ Punchy statements like “this technology is obsolete” or “that approach is 
 
 Doubt, uncertainty and questioning are an integral part of building knowledge. Without them, we would never progress as individuals or as a community. It’s up to us to expose that uncertainty wherever we can.
 
-If you strongly believe in something, do the work to make your case and convince others, as you were convinced. 
+If we strongly believe in something, we should do the work to make our case and convince others, as we were convinced. 
 
 ### Be clear and open
 
@@ -83,13 +83,15 @@ Failing to give clear explanations can evoke feelings of self-doubt. Many people
 
 In a recent round of user research, we asked people with limited experience of code to follow guidance on creating prototypes from HTML and CSS. 
 
-When participants got stuck, no one said “this is not explained clearly enough”. What many of them said instead was “I’m being so stupid”, “Sorry this is taking me so long”, and “You must think I’m such an idiot”. 
+When participants got stuck, no one said “this is not explained clearly enough”. 
 
-In this case, we were actively seeking feedback and will use it to improve our content. But in a real-life situation, we often won’t have visibility over how our communication makes people feel, so we need to preempt the impact of our communication.
+What many of them said instead was “I’m being so stupid”, “Sorry this is taking me so long”, and “You must think I’m such an idiot”. 
+
+In this case, we were actively seeking feedback and will use it to improve our content. But in a real-life situation, we often won’t have visibility over how our communication makes people feel, so we need to preempt the impact it might have.
 
 What prior knowledge are we assuming and how could we do more to help those who might not have it? Can we explain ourselves more clearly, or direct people to a source of information that does?
 
-Communicating inclusively doesn’t mean explaining every single concept in minute detail, but making the effort to share knowledge and lower the barrier to entry, where we can.
+Communicating inclusively doesn’t mean explaining every single concept in granular detail, but making the effort to share knowledge and lower the barrier to entry, where we can.
 
 ### Be collaborative not combative
 
@@ -149,7 +151,7 @@ Even the most clear, honest and collaborative approach won’t bring everyone ro
 
 Some people will always be challenging. They’ll anger and provoke us and when they do we’ll want to cast aside these principles and retaliate. And sometimes we probably will.
 
-But resisting the urge when we can is a better decision in the long run. We must focus on how inclusive communication benefits the community, and not the individual who’s in our face at that particular moment in time.
+But resisting the urge when we can is a better decision in the long run. It's about focusing on how inclusive communication benefits the community, and not the individual who’s in our face at that particular moment in time.
 
 When we're pushed, it's a choice between what we want now and what we want most.
 
@@ -164,3 +166,9 @@ It’s communicating in a way that helps people understand, respond to and parti
 Every small change that makes our communication more inclusive brings us one step closer to a web for everyone.
 
 I hope this has inspired you to make a small change today. 
+
+## Acknowledgements
+
+_A big thank you to [Adam Silver](https://twitter.com/adambsilver) and [Tim Paul](https://twitter.com/timpaul) for their detailed and constructive feedback on this article which helped me make it a lot better._
+
+_And thanks to [Andy Bell](https://twitter.com/andybelldesign) who also provided helpful feedback, and whose article [Break out of the echo chamber](https://andy-bell.design/wrote/break-out-of-the-echo-chamber/) gave me the final push I needed to get on and write this._
