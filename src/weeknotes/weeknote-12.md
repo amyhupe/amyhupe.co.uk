@@ -57,7 +57,7 @@ But that’s just life, right?
 ## Lessons this week
 
 1. Caseworking systems are hard.
-2. Sharing challenges and soltions is important.
+2. Sharing challenges and solutions is important.
 3. Working with the cross-government community makes me happy and proud.
 4. Meditating before work makes me a nicer person.
 5. No matter what I do, I'll always want to do a bit more than I did.
