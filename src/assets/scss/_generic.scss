@@ -300,9 +300,6 @@ figcaption {
 iframe {
 	max-width: 900px;
 	margin-bottom: $spacing-scale-4;
-	@include mq($from: md) {
-		margin-left: -100px;
-	}
 }
 
 .content pre code {
