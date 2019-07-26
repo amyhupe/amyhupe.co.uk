@@ -7,7 +7,7 @@ description: My experience of preparing for and presenting at Patterns Day 2019.
 
 I’ve had a few weeks off the weeknotes and that’s mostly down to the thing that’s going to be the main focus of this one: [Patterns Day](https://patternsday.com/).
 
-Patterns Day was on Friday, and I was one of the speakers. For those of you who didn't make it, [my talk is on Vimeo](https://vimeo.com/345902920)or right here.
+Patterns Day was on Friday, and I was one of the speakers. For those of you who didn't make it, [my talk is on Vimeo](https://vimeo.com/345902920) or right here.
 
 <iframe src="https://player.vimeo.com/video/345902920?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/345902920">Patterns Day 2019: Amy Hupe</a> from <a href="https://vimeo.com/clearleft">Clearleft</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
