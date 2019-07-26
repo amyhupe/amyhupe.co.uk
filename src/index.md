@@ -14,7 +14,9 @@ I care about making services accessible and inclusive, starting with the basics 
 
 I also make food and take [photographs](https://www.instagram.com/saltsweetsourspice/) of it.
 
-## Latest articles
+## Latest articles and talks 
+
+[Patterns Day: Design system documentation matters](https://vimeo.com/345902920)
 
 [Communicating inclusively beyond our products, services and users](/articles/communicating-inclusively-beyond-products-services-users/)
 
