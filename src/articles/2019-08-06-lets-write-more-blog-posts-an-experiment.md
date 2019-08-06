@@ -6,8 +6,6 @@ categories: blah
 description: An experiment to see if we can get more people blogging about their work in the open by working together. Here’s how to get involved.
 ---
 
-## Let’s write more blog posts: an experiment
-
 As someone who blogs sometimes about my work, I often find myself talking to peers and colleagues who tell me they’d like to do the same but—for various reasons—they don’t feel they can.
 
 [When I asked on Twitter](https://twitter.com/Amy_Hupe/status/1126189806264946689?s=20) about the biggest barriers to blogging about work, people told me that they:
