@@ -85,7 +85,7 @@ _I’ll help you write a blog. I’d love to learn about [say what you’d like 
 
 _Let's team up!_
 
-_bit.ly.fkhfhfhfhkf _
+_[https://bit.ly/2ZArL5O](https://bit.ly/2ZArL5O)_
 
 
 ### 2. Pair up
