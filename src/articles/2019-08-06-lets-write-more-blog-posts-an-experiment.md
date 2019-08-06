@@ -32,7 +32,7 @@ There are lots of ways we could approach this problem, but in the spirit of bein
 I know a lot of people find sharing their work in big groups intimidating, so this idea involves working in pairs.
 
 
-## A problem shared is a problem halved
+### A problem shared is a problem halved
 
 Let’s create a buddy system, partnering people who want to write a blog post, with people who are keen to support them, whilst learning more about the post’s topic.
 
@@ -123,7 +123,7 @@ Once you’ve finished working together, and hopefully published a shiny new blo
 
 ## How will we know if it’s worked?
 
-My plan is to try this for 3 months, until the [X] November 2019, and review the feedback I’ve received to see whether there’s any merit in this approach.
+My plan is to try this for 3 months, until the 6 November 2019, and review the feedback I’ve received to see whether there’s any merit in this approach.
 
 If it has, I’ll use the feedback to iterate as needed and provide some more detailed guidance on how to work together.
 
