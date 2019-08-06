@@ -64,28 +64,21 @@ First, decide whether you’re:
 
 Write a Tweet using the following template. Make sure you include the hashtag #10MoreBlogPosts so that content coaches can find you.
 
-_I'm taking part in the #10MoreBlogPosts challenge._
-
-_I'm a [job title] looking for a content coach to help me write a blog._
-
-_[If you have a specific idea, say what you’d like to write about here, for example, “I’d like to share lessons I’ve learned in my first year as a user researcher.”]_
-
-_Let's team up!_
-
-_[https://bit.ly/2ZArL5O](https://bit.ly/2ZArL5O)_
+> _I'm taking part in the #10MoreBlogPosts challenge._<br><br>
+> _I'm a [job title] looking for a content coach to help me write a blog._<br><br>
+> _[If you have a specific idea, say what you’d like to write about here, for example, “I’d like to share lessons I’ve learned in my first year as a user researcher.”]_<br><br>
+> _Let's team up!_<br><br>
+> _bit.ly/2ZArL5O_
 
 
 **If you’re a content coach**
 
 Write a Tweet using the following template. Make sure you include the hashtag #10MoreBlogPosts so that bloggers can find you.
 
-_I'm taking part in the #10MoreBlogPosts challenge._
-
-_I’ll help you write a blog. I’d love to learn about [say what you’d like to learn about, for example, service design in government]._
-
-_Let's team up!_
-
-_[https://bit.ly/2ZArL5O](https://bit.ly/2ZArL5O)_
+> _I'm taking part in the #10MoreBlogPosts challenge._<br><br>
+> _I’ll help you write a blog. I’d love to learn about [say what you’d like to learn about, for example, service design in government]._<br><br>
+> _Let's team up!_<br><br>
+> _bit.ly/2ZArL5O_
 
 
 ### 2. Pair up
