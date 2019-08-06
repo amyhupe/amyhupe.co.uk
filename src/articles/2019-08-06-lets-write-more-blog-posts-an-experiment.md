@@ -74,7 +74,7 @@ _[If you have a specific idea, say what you’d like to write about here, for ex
 
 _Let's team up!_
 
-_bit.ly.fkhfhfhfhkf _
+_[https://bit.ly/2ZArL5O](https://bit.ly/2ZArL5O)_
 
 
 **If you’re a content coach**
