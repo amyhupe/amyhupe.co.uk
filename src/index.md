@@ -16,6 +16,8 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 
 ## Latest articles and talks 
 
+[Let's write more blog posts: an experiment](/articles/lets-write-more-blog-posts-an-experiment/)
+
 [Patterns Day: Design system documentation matters](https://vimeo.com/345902920)
 
 [Communicating inclusively beyond our products, services and users](/articles/communicating-inclusively-beyond-products-services-users/)
@@ -25,8 +27,6 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 [Handling example copy in design systems](/articles/example-copy-in-design-systems/)
 
 [Don't mistake volume for confidence](/articles/dont-mistake-volume-for-confidence/)
-
-[Why every design system needs a service designer](/articles/why-every-design-system-needs-a-service-designer/)
 
 ## Things I've written elsewhere
 
