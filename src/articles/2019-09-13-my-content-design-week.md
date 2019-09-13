@@ -62,7 +62,7 @@ I started Wednesday with some work on my presentation for [NUX8](https://2019.nu
 
 I’m going to be talking about principles for writing inclusive documentation, looking at how we’ve approached it in the GOV.UK Design System. 
 
-In the afternoon, our other interaction designer, Dave, and I met with [Adam](https://twitter.com/adambsilver), [Amanda](https://twitter.com/amanda_kerry) and [Gemma](https://twitter.com/GemmaHutley) from the Ministry of Justice (MoJ) to discuss a contribution they’re making to the Design System. 
+In the afternoon, our other Interaction Designer, [Dave](https://twitter.com/iknowdavehouse), and I met with [Adam](https://twitter.com/adambsilver), [Amanda](https://twitter.com/amanda_kerry) and [Gemma](https://twitter.com/GemmaHutley) from the Ministry of Justice (MoJ) to discuss a contribution they’re making to the Design System. 
 
 They’ve been working on a design pattern to follow when asking users for bank details. With minimal support from us, they’ve done an excellent job and I’m looking forward to getting it published in the next few weeks, once it’s been reviewed by the [working group](https://design-system.service.gov.uk/community/design-system-working-group/).  
 
@@ -75,8 +75,6 @@ I gave MoJ’s bank details guidance a 2i (we use this at GDS as a shorthand for
 I usually organise and run the working group review sessions each month. We run them remotely using Google Hangouts, and we’ve done lots of work over the past year or so to make sure they’re constructive and inclusive for both working group members and contributors. 
 
 ## Friday
-
-I worked from home again on Friday. 
 
 In the afternoon, I facilitated the Design System catchup—a weekly hangout for people across government to get together and talk about design systems, patterns, tools and common challenges we share in this area.
 
