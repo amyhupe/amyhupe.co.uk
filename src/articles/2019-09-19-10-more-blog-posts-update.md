@@ -28,7 +28,7 @@ Edafe is now finishing work on a third post in the series, which will look at bu
 
 The second blog post published was written by [Amy Grinstead](https://twitter.com/sliceofsunny), who paired up with [Lauren Currie](https://twitter.com/Redjotter), showcasing the value of content design by documenting [a week in the life as a content designer](https://medium.com/@sliceofsunny/a-week-in-the-life-of-a-content-designer-2943793b5e2c).
 
-The third blog post to come out of the initiative was [Arfah](https://twitter.com/Arf_22)'s [Community starts with 2](https://medium.com/@arf_22/community-starts-with-two-3525ee5e084b), written with help from [Sam Villis](https://twitter.com/stamanfar). 
+The third blog post to come out of the initiative was [Arfah](https://twitter.com/Arf_22)'s [Community starts with two](https://medium.com/@arf_22/community-starts-with-two-3525ee5e084b), written with help from [Sam Villis](https://twitter.com/stamanfar). 
 
 Adapted from a talk she gave back in May, Arfah's post outlines the lessons she learned from setting up Muslamic Makers—a community space for Muslims working in the technology and creative industries.
 
