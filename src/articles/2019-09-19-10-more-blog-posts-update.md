@@ -32,7 +32,7 @@ As well as what’s already been published, [Laura Morley](https://twitter.com/m
 
 ### There’s power in togetherness
 
-First and foremost, everyone I’ve talked to about the initiative has commented on the value of working with someone else—which is exactly what I was hoping for,.
+First and foremost, everyone I’ve talked to about the initiative has commented on the value of working with someone else—which is exactly what I was hoping for.
 Having regular check ins to talk through concerns, someone to hold you gently accountable, and a ready-made cheerleader to help promote your post once it’s published have proved welcome some of the benefits of working with a partner.
 
 Bloggers I’ve talked to told me that working with someone else has helped them to feel validated and motivated, and means that there’s someone to help them move past the blockers we all hit when writing. 
@@ -41,7 +41,9 @@ Bloggers I’ve talked to told me that working with someone else has helped them
 
 4 separate people I spoke to all cited “just starting” as the hardest but most valuable step when it came to writing a blog post. 
 
-Putting figurative (or literal, if you’re going old school) pen to paper is the first step towards dismantling the idea that you can’t do it. As soon as you’ve started, you are doing it. Everything else can be figured out along the way, with help from your content coach. 
+Putting figurative (or literal, if you’re going old school) pen to paper is the first step towards dismantling the idea that you can’t do it. 
+
+As soon as you’ve started, you _are_ doing it. Everything else can be figured out along the way, with help from your content coach. 
 
 ### A bit of structure helps
 
