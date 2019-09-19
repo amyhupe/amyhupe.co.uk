@@ -13,9 +13,11 @@ I wanted to find out if, through a simple buddy system, it would be possible to 
 
 I wanted to run the experiment for 3 months, which means we’re pretty much at the halfway mark now. Here’s how it’s going so far.
 
-## 3 blog posts and counting
+## 21 pairs, 3 blog posts and counting
 
-So far, 3 blog posts have been published as part of the initiative.
+So far, from my observations, 21 blogging posts have formed as part of the initiative.
+
+3 blog posts have been published, with more underway.
 
 The first and third were authored by [Edafe Onerhime](https://twitter.com/ekoner), one of my own blogging partners, who has written 2 posts on data strategy, explaining:
 
