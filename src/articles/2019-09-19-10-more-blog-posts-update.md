@@ -15,7 +15,7 @@ I wanted to run the experiment for 3 months, which means we’re pretty much at 
 
 ## 21 pairs, 3 blog posts and counting
 
-So far, from my observations, 21 blogging posts have formed as part of the initiative.
+So far, from my observations, 21 blogging pairs have formed as part of the initiative.
 
 3 blog posts have been published, with more underway.
 
