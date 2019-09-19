@@ -41,7 +41,7 @@ As well as what’s already been published, [Laura Morley](https://twitter.com/m
 ### There’s power in togetherness
 
 First and foremost, everyone I’ve talked to about the initiative has commented on the value of working with someone else—which is exactly what I was hoping for.
-Having regular check ins to talk through concerns, someone to hold you gently accountable, and a ready-made cheerleader to help promote your post once it’s published have proved welcome some of the benefits of working with a partner.
+Having regular check ins to talk through concerns, someone to hold you gently accountable, and a ready-made cheerleader to help promote your post once it’s published have proved welcome benefits of working with a partner.
 
 Bloggers I’ve talked to told me that working with someone else has helped them to feel validated and motivated, and means that there’s someone to help them move past the blockers we all hit when writing. 
 
