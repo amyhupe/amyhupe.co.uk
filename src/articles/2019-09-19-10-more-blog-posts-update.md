@@ -13,13 +13,13 @@ I wanted to find out if, through a simple buddy system, it would be possible to 
 
 I wanted to run the experiment for 3 months, which means we’re pretty much at the halfway mark now. Here’s how it’s going so far.
 
-## 21 pairs, 3 blog posts and counting
+## 21 pairs, 5 blog posts and counting
 
 So far, from my observations, 21 blogging pairs have formed as part of the initiative.
 
-3 blog posts have been published, with more underway.
+5 blog posts have been published, with more underway.
 
-The first and third were authored by [Edafe Onerhime](https://twitter.com/ekoner), one of my own blogging partners, who has written 2 posts on data strategy, explaining:
+The first and fourth were authored by [Edafe Onerhime](https://twitter.com/ekoner), one of my own blogging partners, who has written 2 posts on data strategy, explaining:
 
 - [Why your business needs a data strategy and how to get started](https://www.linkedin.com/pulse/why-your-business-needs-data-strategy-how-get-started-edafe-onerhime/)
 - [Why data strategy fails and how to get it right](https://www.linkedin.com/pulse/why-data-strategy-fails-how-you-can-get-right-edafe-onerhime/)
@@ -28,7 +28,13 @@ Edafe is now finishing work on a third post in the series, which will look at bu
 
 The second blog post published was written by [Amy Grinstead](https://twitter.com/sliceofsunny), who paired up with [Lauren Currie](https://twitter.com/Redjotter), showcasing the value of content design by documenting [a week in the life as a content designer](https://medium.com/@sliceofsunny/a-week-in-the-life-of-a-content-designer-2943793b5e2c).
 
-As well as what’s already been published, [Laura Morley](https://twitter.com/morley_laura) has written a blog post with help from her coach [Adam Silver](https://twitter.com/adambsilver) which she plans to publish in the next few weeks. 
+The third blog post to come out of the initiative was [Arfah](https://twitter.com/Arf_22)'s [Community starts with 2](https://medium.com/@arf_22/community-starts-with-two-3525ee5e084b), written with help from [Sam Villis](https://twitter.com/stamanfar). 
+
+Adapted from a talk she gave back in May, Arfah's post outlines the lessons she learned from setting up Muslamic Makers—a community space for Muslims working in the technology and creative industries.
+
+The fifth blog post published was [Adam Silver](https://twitter.com/adambsilver)'s brilliant and self-explanatory [Where to put buttons in forms](https://adamsilver.io/articles/where-to-put-buttons-in-forms/) which he wrote with support from [Caroline Jarratt](https://twitter.com/cjforms).
+
+As well as what’s already been published, [Laura Morley](https://twitter.com/morley_laura) has written a blog post with help from [Adam Silver](https://twitter.com/adambsilver)—who is taking part as both a coach and a blogger—which she plans to publish in the next few weeks. 
 
 ## What we’ve learned so far
 
