@@ -79,8 +79,5 @@ _If you’ve struggled to find someone to pair up with, or if the idea of asking
 
 My colleague Dave has kindly designed me some stickers to support the initiative—there’s 2 to choose from, one for bloggers and one for content coaches. 
 
-![Blogger sticker](IMG_3363.jpg)
-![Content coach sticker](IMG_3364.jpg)
-
 Once you’ve published your post, direct message or email me with details of where to send it to and I’ll post it out to you. 
 
