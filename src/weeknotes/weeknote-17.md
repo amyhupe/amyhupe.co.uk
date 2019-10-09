@@ -57,18 +57,23 @@ But then I considered the fact that anxiety in general is not linear, and that p
 That said, I like to try and learn from these things. So for future me and for anyone else who’s got a conference coming up, here’s my current list of tips for keeping calm:
 
 **1. Avoid alcohol the day before the talk**
+
 I did not do this.
 
 **2. Avoid caffeine on the day of the talk**
+
 And the days leading up to it, if you need to. I also did not do this.
 
 **3. Exercise in the morning to burn off energy**
+
 I went for a run and saw a bit more of Manchester, which was distracting and nice.
 
 **4. Practice in the days leading up to the talk, until you’re saying the words in your sleep**
+
 I did a practice run to a group of my colleagues a week beforehand but then didn’t really practice again until the day of the talk, and I’ve learned I’m someone who needs to.
 
 **5. Get out onto the stage for a few minutes before you have to go on**
+
 If you can do this, getting a feel for the space and getting comfortable walking around on it definitely helps. I did do this, at least.
 
 **6. Say what you need to say to make yourself feel safe** 
