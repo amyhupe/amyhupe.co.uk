@@ -24,11 +24,11 @@ I really enjoyed all of the talks from the day, and it was good to see a few cle
 
 One highlight for me was [Vimla Appadoo](https://twitter.com/ThatGirlVim)’s talk “It’s Time to Redesign Design”, in which she opened up some big and thought-provoking questions about the definition of design, the value it brings, and how that might evolve in the future. 
 
-I also especially enjoyed [Sarah Parmenter](https://twitter.com/sazzy)’s talk, Designing for Personalities, in which she explored ways in which companies can create and market content in a way that’s compassionate, and acknowledges the complexities of people’s lives and circumstances. 
+I also especially enjoyed [Sarah Parmenter](https://twitter.com/sazzy)’s talk, Designing for Personalities, in which she explored how companies might create and market content in a way that’s compassionate, and acknowledges the complexities of people’s lives and circumstances. 
 
 ## The people
 
-Despite having done a few talks now, I still find public speaking super nerve-wracking, which means I tend to pay close attention to what the audience, organisers, and other speakers are like.
+Despite having done a few talks now, I still find public speaking super nerve-wracking (more on that below), which means I tend to pay close attention to the audience, organisers, other speakers and atmosphere.
 
 I’m pleased to report that they were all great. But let me be more specific. 
 
@@ -38,9 +38,9 @@ With that in mind, I was really impressed by the amount of effort, care and cons
 
 Watching them was like a masterclass in facilitation; quietly getting things set up, making sure we had the space and time we needed to prepare, and the encouragement we needed to deliver our talks. 
 
-The other speakers were friendly and supportive, and the audience was warm and receptive.
-
 [Gavin Elliot](https://twitter.com/gavinelliott), compère for the event, referenced the [code of conduct](https://2019.nuxconf.uk/code-of-conduct/) right at the beginning, with a clearly-explained protocol for reporting violations.
+
+The other speakers were friendly and supportive, and the audience was warm and receptive.
 
 All in all, if you’re considering speaking at a future NUX conference and you’re a little nervous, as I was, you couldn’t ask for a safer or more supportive environment in which to give it a go. 
 
@@ -56,12 +56,23 @@ But then I considered the fact that anxiety in general is not linear, and that p
 
 That said, I like to try and learn from these things. So for future me and for anyone else who’s got a conference coming up, here’s my current list of tips for keeping calm:
 
-- avoid alcohol the day before the talk (I did not do this)
-- avoid caffeine on the day of the talk, and the days leading up to it, if you need to (I also did not do this)
-- if you take medication to manage anxiety (I take beta blockers, for example), remember that it’s fine to take them if you need to (I forgot to bring mine with me)
-- exercise in the morning to burn off energy (I went for a run and saw a bit more of Manchester, which was distracting and nice)
-- practice in the days leading up to the talk, until you’re saying the words in your sleep (I did a run through a week beforehand but then didn’t really practice again until the day of the talk, and I’ve learned I’m someone who needs to)
-- get out onto the stage for a few minutes before you have to go on, if you can - getting a feel for the space and getting comfortable walking around on it definitely helps (I did do this, at least)
-- say what you need to say to make yourself feel safe. One of the other speakers - Vimla - called out her nerves explicitly as part of her introduction and asked the audience to take this into consideration. I really respected this - it made me feel less alone in feeling nervous and I imagine it also put her at ease to say it. 
+**1. Avoid alcohol the day before the talk**
+I did not do this.
+
+**2. Avoid caffeine on the day of the talk**
+And the days leading up to it, if you need to. I also did not do this.
+
+**3. Exercise in the morning to burn off energy**
+I went for a run and saw a bit more of Manchester, which was distracting and nice.
+
+**4. Practice in the days leading up to the talk, until you’re saying the words in your sleep**
+I did a practice run to a group of my colleagues a week beforehand but then didn’t really practice again until the day of the talk, and I’ve learned I’m someone who needs to.
+
+**5. Get out onto the stage for a few minutes before you have to go on**
+If you can do this, getting a feel for the space and getting comfortable walking around on it definitely helps. I did do this, at least.
+
+**6. Say what you need to say to make yourself feel safe** 
+
+One of the other speakers - Vimla - called out her nerves explicitly as part of her introduction and asked the audience to take this into consideration. I really respected this - it made me feel less alone in feeling nervous and I imagine it also put her at ease to say it. 
 
 I'm sure this list will evolve over time, but if you've got any suggestions to add, I'd love to hear them.
