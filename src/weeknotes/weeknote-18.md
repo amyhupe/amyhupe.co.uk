@@ -11,7 +11,7 @@ On Thursday, we said goodbye to the [GOV.UK Design System](https://design-system
 
 I’ve worked with Dave since my very first day at GDS nearly 3 years ago, and I’ve learnt such a lot from him, so I was really sad to see him go. I don’t want this to read like a eulogy, but I really couldn’t let him leave without saying a couple of things about what it’s been like working with him. 
 
-First things first, he has done a phenomenal amount of work on the Design System itself, the enormity and complexity of which is far too great for me to do justice here. Suffice to say though, the GOV.UK Design System would not be what it is without him. Not even close.
+First things first, he has done a phenomenal amount of work on the Design System itself, the enormity and complexity of which is far too great for me to do justice to here. Suffice to say though, the GOV.UK Design System would not be what it is without him. Not even close.
 
 But what I have valued about working with Dave above all else, more than the pixel-perfect attention to detail, the unwavering focus on gnarly problems and the shit hot design work he’s done, is Dave himself.  
 
