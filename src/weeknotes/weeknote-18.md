@@ -7,7 +7,7 @@ description: Bidding farewell to GOV.UK Design System stalwart Dave House, publi
 
 ## Dave House has left the building
 
-On Thursday, we said goodbye to the [GOV.UK Design System](https://design-system.service.gov.uk/)’s long-standing interaction designer, [Dave House](https://twitter.com/iknowdavehouse) who's leaving GDS for pastures new.
+On Thursday, we said goodbye to the [GOV.UK Design System](https://design-system.service.gov.uk/)’s long-standing interaction designer, [Dave House](https://twitter.com/iknowdavehouse), who's leaving GDS for pastures new.
 
 I’ve worked with Dave since my very first day at GDS nearly 3 years ago, and I’ve learnt such a lot from him, so I was really sad to see him go. I don’t want this to read like a eulogy, but I really couldn’t let him leave without saying a couple of things about what it’s been like working with him. 
 
