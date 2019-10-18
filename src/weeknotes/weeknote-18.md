@@ -1,83 +1,82 @@
 ---
-title: The NUX8 Edition
-date: 2019-10-09
+title: Weeknote 18
+date: 2019-10-18
 categories:
-description: My experience of preparing for and presenting at NUX8 2019.
+description: Bidding farewell to GOV.UK Design System stalwart Dave House, publishing patterns, naming things and lots more blog posts
 ---
 
-I’ve been a little quiet on the weeknotes front lately, and that’s partly because I’ve been in preparation mode for [NUX8](https://2019.nuxconf.uk/) - where I spoke on Friday about writing inclusive documentation. 
+## Dave House has left the building
 
-The talk was filmed and it should be online in the next few months. But in the mean time, it was similar to [my talk from Patterns Day 2019](https://vimeo.com/345902920).
+On Thursday, we said goodbye to the [GOV.UK Design System](https://design-system.service.gov.uk/)’s long-standing interaction designer, [Dave House](https://twitter.com/iknowdavehouse).
 
-Conferences take a fair deal of time and effort to prepare, for speakers and organisers alike, so I wanted to write up some of what I did and learned from taking part.
+I’ve worked with Dave since my very first day at GDS nearly 3 years ago, and I’ve learnt such a lot from him, so I was really sad to see him go. I don’t want this to read like a eulogy, but I really couldn’t let him leave without saying a couple of things about what it’s been like working with him. 
 
-## The talks
+First things first, he has done a phenomenal amount of work on the Design System itself, the enormity and complexity of which is far too great for me to do justice here. Suffice to say though, the GOV.UK Design System would not be what it is without him. Not even close.
 
-When I’m in the midst of preparing for a conference, I often forget that I actually get to attend the conference until I’m actually at the conference.
+But what I have valued about working with Dave above all else, more than the pixel-perfect attention to detail, the unwavering focus on gnarly problems and the shit hot design work he’s done, is Dave himself.  
 
-I really enjoyed all of the talks from the day, and it was good to see a few clear themes emerging. My takeaways were:
+Dave’s one of those super generous people that will always take the time to deliver a patient explanation to anyone who asks. Whether it’s a technical issue, the background to a historic design decision or a quick summary—complete with post-it-based diagrams—of how phase cancellation works (Google it).
 
-- good design puts people before technology
-- developing deep knowledge of a problem space is better than committing to any particular solution
-- we must design products and services ethically, empathetically and with consideration for the future
-- our industry must work as a collective, cultivating a proper appreciation for each other’s disciplines, enabling us all to do our best work
+We work on a pretty technical project, which can sometimes be challenging for those of us without a coding background, so I’ve been incredibly grateful to have him to turn to at times of “WTF?!”. As an example of that, Dave put together this brilliant 7-part tutorial explaining how to apply basic CSS styling to a page and used it to teach some of the less technical members of our team (myself included) a bit about CSS.
 
-One highlight for me was [Vimla Appadoo](https://twitter.com/ThatGirlVim)’s talk “It’s Time to Redesign Design”, in which she opened up some big and thought-provoking questions about the definition of design, the value it brings, and how that might evolve in the future. 
+Truthfully, I would not have survived in this team if it wasn’t for Dave, and my other brilliant colleagues who have taken the time to help me understand the project and bring value to it. 
 
-I also especially enjoyed [Sarah Parmenter](https://twitter.com/sazzy)’s talk, Designing for Personalities, in which she explored how companies might create and market content in a way that’s compassionate, and acknowledges the complexities of people’s lives and circumstances. 
+To come to work every day with people you can create with, care with, and laugh with (and only very occasionally want to throw things at) is by no means a universal experience, and I feel lucky beyond measure to have had that here. 
 
-## The people
+Dave House—it has been a privilege and a pleasure of epic proportions to work with you. Go out there and smash it. 
 
-Despite having done a few talks now, I still find public speaking super nerve-wracking (more on that below), which means I tend to pay close attention to the audience, organisers, other speakers and atmosphere.
+## Publishing a new pattern in the GOV.UK Design System
 
-I’m pleased to report that they were all great. But let me be more specific. 
+On Thursday, we published a new pattern—[Ask users for bank details](https://design-system.service.gov.uk/patterns/bank-details/)— which was contributed by [Adam](https://twitter.com/adambsilver), [Amanda](https://twitter.com/amanda_kerry) and [Gemma](https://twitter.com/GemmaHutley) who work at the Ministry of Justice (MOJ).
+We’ve been looking at how we can make our contribution model more inclusive and more sustainable. This contribution was part of an experiment to find out if we could leverage the knowledge and experience of someone who’d contributed successfully before (Adam, in this case) to help others to contribute. 
 
-NUX is volunteer-run, led by a team of UX practitioners working at various different organisations across the North of England who give up their time to organise and run the conference.
+We agreed up front that we would offer the team minimal support while they were developing the contribution, asking them to note down any times they felt stuck or might have wanted extra help and report back to us at the end.
 
-With that in mind, I was really impressed by the amount of effort, care and consideration that evidently had gone into making speakers and guests feel welcome, and ensuring the day ran smoothly.
+We met with them for one hour to kick off the work and agree some acceptance criteria, but then we left them to it. We then came back together for another hour at the end to go through the pattern together before sending it off to the Design System working group to review. 
 
-Watching them was like a masterclass in facilitation; quietly getting things set up, making sure we had the space and time we needed to prepare, and the encouragement we needed to deliver our talks. 
+The team did a fantastic job, evidenced by the vast quantities of positive feedback we’ve had since its publication. 
 
-[Gavin Elliot](https://twitter.com/gavinelliott), compère for the event, referenced the [code of conduct](https://2019.nuxconf.uk/code-of-conduct/) right at the beginning, with a clearly-explained protocol for reporting violations.
+Contribution takes a lot of time and investment to make possible—time and effort which can feel fruitless at times. But this example gives me hope that we’re moving in the right direction with our contribution model, empowering more people to get involved and growing the Design System with input from the wonderful community that underpins it. 
 
-The other speakers were friendly and supportive, and the audience was warm and receptive.
+## Naming things is hard, scoping things is harder
 
-All in all, if you’re considering speaking at a future NUX conference and you’re a little nervous, as I was, you couldn’t ask for a safer or more supportive environment in which to give it a go. 
+On Wednesday, I caught up with Dave, a designer at the NHS, to talk about naming things in design systems (my favourite thing). We had a good chat about some of the challenges around naming conventions, and swapped some ideas to address them. 
 
-## The nerves
+Something that comes up time and time again when I have conversations like this one, is how often the naming of components and patterns is hampered by the lack of a clearly defined scope. 
 
-As I’ve said before, I’m pretty terrified of public speaking. 
+[The GOV.UK Service Manual says](https://www.gov.uk/service-manual/design/naming-your-service#problems-with-naming-your-service) “If you’re having problems naming your service, it might be because you haven’t scoped your service correctly.” and in my experience, this is just as applicable to naming design patterns.
 
-I find the build up incredibly difficult, and there’s always at least 1 or 2 moments when I genuinely wonder if I can go through with it. I do it because I tend to enjoy it when I’m actually doing it, and I’m always glad I’ve done it.
+Often when we’re grappling with the question of what to call something, it’s actually a proxy for a more fundamental confusion about what the thing actually is. 
 
-I was a bit disheartened to find that I was more not less nervous at NUX8 than I was at Patterns Day earlier in the year. It felt, somehow, like a failure - as though I should be getting more comfortable over time.
+To use a recent example, when we were planning work around the bank details pattern, we considered naming it “Help users to get paid”, “Help users to pay or get paid”, “Ask users for bank details”.
 
-But then I considered the fact that anxiety in general is not linear, and that peaks and troughs are expected, so why should anxiety around public speaking be any different?
+With the first and second options, we would have needed to extend the pattern to accommodate not just bank details, but cheques, payments by card, standing orders, Direct Debits, as well as how to support users who don’t have bank accounts. 
 
-That said, I like to try and learn from these things. So for future me and for anyone else who’s got a conference coming up, here’s my current list of tips for keeping calm:
+As well as making the pattern much bigger and more complicated than it already was, it would have also overlapped with our pattern for [asking users for payment card details](https://design-system.service.gov.uk/patterns/payment-card-details/) and potentially others in the system. 
 
-**1. Avoid alcohol the day before the talk**
+So while the conversation was, and often is, centred around the name of the thing, the real question is more existential: Where does this thing start and finish?
 
-I did not do this.
+Maybe I’ll write a thing about this. 
 
-**2. Avoid caffeine on the day of the talk**
+## 4 more blog posts
 
-And the days leading up to it, if you need to. I also did not do this.
+In the past week alone, there have been 4 more blog posts published as part of the [10 More Blog Posts](https://amyhupe.co.uk/articles/lets-write-more-blog-posts-an-experiment/) initiative I kicked off back in August:
 
-**3. Exercise in the morning to burn off energy**
+- [Make it Perceivable](http://www.gerireid.com/blog/make-it-perceivable/) by [Geri Reid](https://twitter.com/gerireid) 
+- [Learning about designing for deaf / Deaf people](https://medium.com/@vickytnz/learning-about-designing-services-for-deaf-deaf-people-18cc6a7a6f91) by [Vicky Teinaki](https://twitter.com/vickytnz) 
+- [Rebuilding and re-energising a community](https://medium.com/@arf_22/rebuilding-and-re-energising-a-community-f1ffea705b6e) by [Arfah](https://twitter.com/Arf_22)
+- [Reflections of a user researcher](https://medium.com/@lauramorley/reflections-of-a-user-researcher-53f0a985ea22) by [Laura Morely](https://twitter.com/morley_laura)
 
-I went for a run and saw a bit more of Manchester, which was distracting and nice.
+Folks, you are all superstars and having the tiniest hand in helping you find your voices fills me to the brim with pride.
 
-**4. Practice in the days leading up to the talk, until you’re saying the words in your sleep**
+## Other stuff
 
-I did a practice run to a group of my colleagues a week beforehand but then didn’t really practice again until the day of the talk, and I’ve learned I’m someone who needs to.
+Those were the biggest, most time-consuming things. The other things that happened were:
 
-**5. Get out onto the stage for a few minutes before you have to go on**
+- I read [Dean Vipond](https://twitter.com/DeanVipond)’s brilliant blog post on [Building a diverse design team in challenging circumstances](https://medium.com/@deanvipond/building-a-diverse-design-team-in-challenging-circumstances-7bfd17f8415c) and now I want everyone in the world to, as well.
+- I completed Week 5 of [Couch 2 5k](https://www.nhs.uk/live-well/exercise/couch-to-5k-week-by-week/) and ran 20 minutes straight which might be scant success for some but was a giant leap for me and I’m going to own it.
+- I had a [mini Twitter rant about crediting other people’s work](https://twitter.com/Amy_Hupe/status/1184439691510202368) which seemed to resonate with people, prompting me to add it to the fictitious backlog entitled “Things to Write About When I Can Find a Spare Minute”.
+- I got to chat to [Nathan Curtis](https://twitter.com/nathanacurtis) about design systems and fangirled about as hard as I did when I met [Alla Kholmatova](https://twitter.com/craftui) for the first time—I have no chill when it comes to nerding out over design systems.
+- I watched [Jen Lambourne](https://twitter.com/Jenny__Anne)’s wonderfully clever and funny talk on [how tech writers at GDS introduced docs as code to government](https://www.youtube.com/watch?v=Ql9Il7tssik&feature=youtu.be) presented as a choose your own adventure.
 
-If you can do this, getting a feel for the space and getting comfortable walking around on it definitely helps. I did do this, at least.
 
-**6. Say what you need to say to make yourself feel safe** 
-
-One of the other speakers - Vimla - called out her nerves explicitly as part of her introduction and asked the audience to take this into consideration. I really respected this - it made me feel less alone in feeling nervous and I imagine it also put her at ease to say it. 
-
-I'm sure this list will evolve over time, but if you've got any suggestions to add, I'd love to hear them.
