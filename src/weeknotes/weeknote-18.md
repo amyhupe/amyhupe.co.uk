@@ -65,7 +65,7 @@ In the past week alone, there have been 4 more blog posts published as part of t
 - [Make it Perceivable](http://www.gerireid.com/blog/make-it-perceivable/) by [Geri Reid](https://twitter.com/gerireid) 
 - [Learning about designing for deaf / Deaf people](https://medium.com/@vickytnz/learning-about-designing-services-for-deaf-deaf-people-18cc6a7a6f91) by [Vicky Teinaki](https://twitter.com/vickytnz) 
 - [Rebuilding and re-energising a community](https://medium.com/@arf_22/rebuilding-and-re-energising-a-community-f1ffea705b6e) by [Arfah](https://twitter.com/Arf_22)
-- [Reflections of a user researcher](https://medium.com/@lauramorley/reflections-of-a-user-researcher-53f0a985ea22) by [Laura Morely](https://twitter.com/morley_laura)
+- [Reflections of a user researcher](https://medium.com/@lauramorley/reflections-of-a-user-researcher-53f0a985ea22) by [Laura Morley](https://twitter.com/morley_laura)
 
 Folks, you are all superstars and having the tiniest hand in helping you find your voices fills me to the brim with pride.
 
