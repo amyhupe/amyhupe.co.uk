@@ -1,6 +1,6 @@
 ---
 
-title: "Design Systems: 5 lessons in enabling contribution"
+title: "Design systems: 5 lessons in enabling contribution"
 date:   2019-11-14 
 categories: design systems, open source
 description: 5 important lessons in supporting contribution to a design system 
@@ -46,15 +46,15 @@ Publishing patterns when they’re not ready enough makes it more likely they’
 
 If we’re constantly imposing updates on our users, we’ll start to lose trust, which is likely to impact adoption. And if people don’t _use_ the system, it’s unlikely anyone will want to contribute to it anyway. 
 
-So although we have to support contributors, we mustn’t do it at the expense of holding patterns to the standards our users need. 
+So, although we have to support contributors, we mustn’t do it at the expense of holding patterns to the standards our users need. 
 
-Making our standards open and clear, having a solid quality assurance framework, and providing hands on support to our contributors, is a more responsible way to support contributors, whilst still prioritising users’ needs.
+Making our standards open and clear, having a solid quality assurance framework, and providing hands-on support, is a more responsible way to support contributors, whilst still prioritising users’ needs.
 
 ## 3. Be inclusive and help the unlikely contributors
 
 To be able to contribute to an open source project like a design system, people need time, confidence, motivation and permission.
 
-If we wait passively for contributors to approach us, it’s likely that only the people with all of these things will do so—and that will influence our decisions. 
+If we wait passively for contributors to approach _us_, it’s likely that only the people with all of these things will do so—and that will influence our decisions. 
 
 Early contributors will be the people we’ll learn from, who’ll tell us which bits of our process are working, and what needs to change.
 
@@ -86,13 +86,13 @@ Working on a design system is complicated and requires presence and sustained in
 
 It’s unrealistic to expect those working in other teams to hold contributing to our design system at the forefront of their minds, or to submit a textbook pattern when they do. 
 
-We can and should work to empower contributors with hands on support and transparency around our conventions, but in the end it’s _our_ responsibility to provide patterns—it’s not theirs.
+We can and should work to empower contributors with hands-on support and transparency around our conventions but in the end, it’s _our_ responsibility to provide patterns—it’s not theirs.
 
 Repeatedly reminding teams to contribute, going out and pattern hunting, and doing a significant amount of hand-holding is part of the job, and it probably always will be.
 
 This might seem disheartening, but there’s another way to look at it: if working in silos is a default behaviour for teams within our organisation, then any contribution can and should be considered a big success.
 
-If people are trying to do that at all, you’ve done something seriously right.
+If people are trying to contribute at all, you’ve done something seriously right.
 
 ## 5. Contribution doesn’t make things faster—it makes things representative
 
@@ -115,11 +115,13 @@ Opening up a design system for contribution gives more people a seat at the tabl
 
 Government design principle number 10, [Make things open, it makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better) says:
 
-“The more eyes there are on a service the better it gets - howlers are spotted, better alternatives are pointed out, the bar is raised.”—and the same goes for patterns.
+_“The more eyes there are on a service the better it gets - howlers are spotted, better alternatives are pointed out, the bar is raised.”_
+
+The same goes for patterns.
 
 Teams who are using the system to build products are perfectly placed to ensure that patterns are going to work in those products.
 
-Enabling contribution means patterns are valuable and representative for the design system’s users, and the users of the products it’s there to help build. 
+Enabling contribution means patterns are valuable and representative, both for the design system’s users, and the users of the products it’s there to help build. 
 
 ## In conclusion
 
@@ -131,7 +133,7 @@ Getting people to contribute and then supporting them through the process requir
 
 But it’s an effort worth making. With input from a community of users, a system’s patterns become infinitely richer and more representative than they would otherwise be. 
 
-Prioritising contribution and representation—even at the expensive of short-term efficiency—is the key to a design system’s success.
+And I believe that prioritising contribution and representation—even at the expensive of short-term efficiency—is the key to a design system’s success.
 
 ## Acknowledgements
 
