@@ -16,19 +16,21 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 
 ## Latest articles and talks 
 
+[Level Up: Enabling contribution to the GOV.UK Design System](https://www.youtube.com/watch?v=GMFPp21u9_M&feature=youtu.be)
+
+[Design systems: 5 lessons in enabling contribution](https://amyhupe.co.uk/articles/5-lessons-on-enabling-design-system-contribution/)
+
+[10 More Blog posts update](https://amyhupe.co.uk/articles/10-more-blog-posts-update/)
+
+[A week in my life as a content designer](https://amyhupe.co.uk/articles/my-content-design-week/)
+
 [Let's write more blog posts: an experiment](/articles/lets-write-more-blog-posts-an-experiment/)
 
 [Patterns Day: Design system documentation matters](https://vimeo.com/345902920)
 
-[Communicating inclusively beyond our products, services and users](/articles/communicating-inclusively-beyond-products-services-users/)
-
-[The myth that design systems solve easy problems](/articles/the-myth-that-design-systems-solve-easy-problems/)
-
-[Handling example copy in design systems](/articles/example-copy-in-design-systems/)
-
-[Don't mistake volume for confidence](/articles/dont-mistake-volume-for-confidence/)
-
 ## Things I've written elsewhere
+
+[4 ways design systems can promote accessibility - and what they can't do](https://24ways.org/2019/four-ways-design-systems-can-promote-accessibility/)
 
 [How the GOV.UK Design System can work alongside other government design resources](https://designnotes.blog.gov.uk/2019/02/14/how-the-gov-uk-design-system-can-work-alongside-other-government-design-resources)
 
