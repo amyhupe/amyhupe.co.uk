@@ -23,7 +23,7 @@ At the same time, I’ve learned an enormous amount in a very short space of tim
 
 ## Understanding a new design system
 
-When I began working with the GOV.UK Design Ssytem team, we were just beginning to build an alpha, and by the time I left it was well-established, widely adopted, fully-supported and receiving regular external contributions.
+When I began working with the GOV.UK Design System team, we were just beginning to build an alpha, and by the time I left it was well-established, widely adopted, fully-supported and receiving regular external contributions.
 
 It’s been interesting, then, to go back to the beginning of that journey with Babylon's design system. To be asking afresh what’s _really_ essential, and what can be added and improved iteratively as we grow it.
 
@@ -53,7 +53,7 @@ I don’t think either of them will object to me saying that they have pretty di
 
 I was also lucky enough to have a coaching session with [Nathan Curtis](https://twitter.com/nathanacurtis) who helped me to focus on what matters most given the stage the project is at right now, and the fact that I may only have 3 months in which to help. 
 
-In addition to that, I’ve also had countless words of encouragement and words of wisdom from my friends, family, peers and people I’ve worked with. 
+In addition to that, I’ve also had countless words of encouragement and words of wisdom from my friends, family, peers and people I’ve worked with and, I'm pleased to report, people at Babylon.  
 
 ## Getting comfortable with an absence of information
 
