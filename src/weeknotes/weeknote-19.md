@@ -1,6 +1,6 @@
 ---
 title: "Weeknotes 19: Reflections on my first 2 weeks at Babylon"
-date: 2019-10-26
+date: 2019-01-26
 categories:
 description: Getting to grips with a new design system, learning to say no, and a visit from my old friend, imposter syndrome.
 ---
