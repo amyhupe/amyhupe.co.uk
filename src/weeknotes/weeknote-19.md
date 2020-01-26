@@ -5,7 +5,7 @@ categories:
 description: Getting to grips with a new design system, learning to say no, and a visit from my old friend, imposter syndrome.
 ---
 
-2 weeks ago I started a 3 month contract with Babylon Health, product managing its design system, Babylon DNA. Before that, I was working as a Senior Content Designer on the GOV.UK Design System.
+2 weeks ago I started a 3 month contract with Babylon Health, product managing its design system. Before that, I was working as a Senior Content Designer on the GOV.UK Design System.
 
 Starting this contract represented a number of pretty big transitions. For example, I’ve gone from:
 
@@ -14,7 +14,7 @@ Starting this contract represented a number of pretty big transitions. For examp
 - content design to product management 
 - being a doer to being a decision maker 
 - an established organisation to a startup 
-- a fairly mature design system to one in its infancy (Babylon DNA is just about to launch)
+- a fairly mature design system to one in its infancy (Babylon's design system is just about to launch)
 - a design system serving only web to one serving multiple-platforms
 
 I’ll admit it’s been tough at times. Taking on so many new challenges at once has brought on a bout of imposter syndrome and moments of unpleasant self-doubt.
@@ -23,11 +23,11 @@ At the same time, I’ve learned an enormous amount in a very short space of tim
 
 ## Understanding a new design system
 
-I spent 3 years working on the GOV.UK Design System. When I began working with the team, we were just beginning to build an alpha, and by the time I left it was well-established, widely adopted, fully-supported and receiving regular external contributions.
+When I began working with the GOV.UK Design Ssytem team, we were just beginning to build an alpha, and by the time I left it was well-established, widely adopted, fully-supported and receiving regular external contributions.
 
-It’s been interesting, then, to go back to the beginning of that journey. To be asking afresh what’s _really_ essential, and what can be added and improved iteratively as we grow it.
+It’s been interesting, then, to go back to the beginning of that journey with Babylon's design system. To be asking afresh what’s _really_ essential, and what can be added and improved iteratively as we grow it.
 
-And the stage of the project is only one of the differences. Whereas the GOV.UK Design System only needed to serve web, Babylon DNA needs to serve iOS, Android and Web at the very least, with other platforms likely in the future. 
+And the stage of the project is only one of the differences. Whereas the GOV.UK Design System only needed to serve web, Babylon's design system needs to serve iOS, Android and Web at the very least, with other platforms likely in the future. 
 
 Having always been in one of the less technical roles in the team, this makes answering questions like “how do we get things into production?”, “how might we rollout updates?” or “how would someone contribute?” challenging, and I’m not done figuring it out yet.
 
@@ -35,7 +35,7 @@ Another key difference is that the GOV.UK Design System was introduced at a time
 
 At Babylon, the design community has grown rapidly and will continue to do so. Product development is driven by autonomous teams, and while things are consistent to a point, a lack of centralised standards means discrepancies have crept in. 
 
-In some ways, introducing a design system into a rapidly changing organisation is easier: iIntroducing a new system in government required a cultural shift, and our work was often met with suspicions that we’d have to work to reassure. In Babylon, change is the norm and the organisation is set up to respond quickly.
+In some ways, introducing a design system into a rapidly changing organisation is easier: introducing a new system in government required a cultural shift, and our work was often met with suspicions that we’d have to work to reassure. In Babylon, change is the norm and the organisation is set up to respond quickly.
 
 But it also means we’re trying to rationalise a moving target, and that’s complicated. If we can’t keep pace with the organisation’s growth and change, that could hamper the system’s adoption.
 
@@ -75,9 +75,9 @@ We haven’t yet launched the design system, and any changes like this are likel
 
 My approach to decisions like this has been to:
 
-- get as much information as I can in the time available - in this instance, I asked what drove the decision to implement the existing navigation in the first place
-- gather opinions - my team have contextual knowledge and experience I don’t yet have, so it was important for me to understand whether _they_ felt it was worth delaying things to make this change
-- make a call, being transparent about my reasons and any risks - I concluded that we should change the navigation, as I was confident—as was my team—that the side-navigation was a better solution and I felt it preferable to avoid making significant changes to the navigation soon after launch, if we could help it
+- **get as much information as I can in the time available** - in this instance, I asked what drove the decision to implement the existing navigation in the first place
+- **gather opinions** - my team have contextual knowledge and experience I don’t yet have, so it was important for me to understand whether _they_ felt it was worth delaying things to make this change
+- **make a call, being transparent about my reasons and any risks** - I concluded that we _should_ change the navigation, as we were confident that the side-navigation was a better solution and I felt it preferable to avoid making significant changes to the navigation soon after launch, if we could help it
 
 That decision was fairly straightforward, others have been more complicated. I’m trying to take each one as it comes, weighing up how disruptive each given option will be against the impact of getting it wrong. 
 
@@ -89,13 +89,13 @@ Something I struggled with last year was saying no. Whether it was an invitation
 
 And it was never because I was afraid of saying no, it was because I liked saying _yes_. 
 
-But my workload coupled with the time I’ve got, and the cognitive load of learning All The Things, means I’ve had to quickly get good at saying no. A lot. I just know I’m not going to do a good job unless I protect my time and energy properly.
+But my workload now, coupled with the time I’ve got, and the cognitive load of learning All The Things, means I’ve had to quickly get good at saying no. A lot. I just know I’m not going to do a good job unless I protect my time and energy properly.
 
 And I’m learning that there’s something surprisingly empowering in saying “‘I’m not going take that on right now”. Something as small as reaching Friday last week and admitting my weeknotes weren’t going to happen - despite having planned to write them all week - was a good decision I wouldn’t have made last year.
 
 ## Taking what I need and leaving what I don’t
 
-I quite often do yoga at home, following online tutorials by yoga instructor [Adriene Mischler](https://www.youtube.com/user/yogawithadriene/videos). Something she regularly advises when explaining new movements is to “take what you need and leave what you don’t”—using your intuition to determine which bits of this instruction are helpful for me, and which aren’t?
+I quite often do yoga at home, following online tutorials by yoga instructor [Adriene Mischler](https://www.youtube.com/user/yogawithadriene/videos). Something she regularly advises when explaining new movements is to “take what you need and leave what you don’t”—using your intuition to determine which bits of an instruction are helpful for you, and which aren’t.
 
 And I’m learning to apply that rule at work. 
 
@@ -103,9 +103,9 @@ Everyone I’ve met at Babylon so far has been incredibly generous in taking the
 
 I’m really grateful for this as it’s helped me significantly accelerate my learning, but there’s no way I’d be able to retain all of it.
 
-With limited time and information, I’m quickly fine-tuning my ability to decipher what’s important,and what I can get by without knowing.
+With limited time and information, I’m quickly fine-tuning my ability to decipher what’s essential, and what I can get by without knowing.
 
-One example is last week someone gave me some advice on how to start creating a roadmap. I already have a plan for this, and their suggestion would have completely derailed that plan.
+One example was last week, when someone gave me some advice on how to start creating a roadmap. I already had a plan for this, and their suggestion was something quite a different.
 
 Although I valued their view, and they delivered it fairly unequivocally, following their advice would have derailed my whole plan. If this had happened last year, I might have let it.
 
@@ -113,7 +113,7 @@ But I know my intended approach is solid because it’s based on first hand expe
 
 So while I’ll certainly bank their advice as something to consider in future, I’m going to follow my instincts and stick to my plan.
 
-## Where I am at the end of week 2
+## At the end of week 2
 
 It’s been a challenging couple of weeks and I’ve had my fair share of self-doubt. 
 
