@@ -105,7 +105,7 @@ I’m really grateful for this as it’s helped me significantly accelerate my l
 
 With limited time and information, I’m quickly fine-tuning my ability to decipher what’s essential, and what I can get by without knowing.
 
-One example was last week, when someone gave me some advice on how to start creating a roadmap. I already had a plan for this, and their suggestion was something quite a different.
+One example was last week, when someone gave me some advice on how to start creating a roadmap. I already had a plan for this, and their suggestion was something quite different.
 
 Although I valued their view, and they delivered it fairly unequivocally, following their advice would have derailed my whole plan. If this had happened last year, I might have let it.
 
