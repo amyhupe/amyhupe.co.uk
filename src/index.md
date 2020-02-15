@@ -2,15 +2,15 @@
 layout: layouts/page.njk
 permalink: /
 id: home
-heading: Notes from a content designer
-sub: Making the case for simplicity and inclusion, one word at a time
+heading: Hello.
+sub: I'm Amy. I'm a content designer and design systems expert, making the case for simplicity and inclusion in the face of complexity.
 ---
 
-Hi, I'm Amy. I'm a content designer and design systems expert. Right now, I'm product managing the design system at [Babylon Health](babylonhealth.com).
+Right now, I'm product managing the design system at [Babylon Health](babylonhealth.com).
 
-I spent 3 years working at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) on the [GOV.‌UK Design System](https://design-system.service.gov.uk/).
+Before that, I spent 3 years working at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) on the [GOV.‌UK Design System](https://design-system.service.gov.uk/).
 
-Before that, I worked at [Which?](https://www.which.co.uk/) writing about everything from compost to conveyancing. 
+And prior to GDS, I worked at [Which?](https://www.which.co.uk/) writing about everything from compost to conveyancing. 
 
 I care about making services accessible and inclusive, starting with the basics – the words we use to talk about them.
 
