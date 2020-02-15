@@ -14,7 +14,9 @@ I care about making services accessible and inclusive, starting with the basics 
 
 I also make food and take [photographs](https://www.instagram.com/saltsweetsourspice/) of it.
 
-## Latest articles and talks 
+## Latest articles and talks
+
+[NUX8: Inclusive documentation](https://2019.nuxconf.uk/speakers/amy-hupe/)
 
 [Level Up: Enabling contribution to the GOV.UK Design System](https://www.youtube.com/watch?v=GMFPp21u9_M&feature=youtu.be)
 
