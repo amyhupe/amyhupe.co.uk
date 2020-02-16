@@ -13,3 +13,7 @@ You can reach me on:
 - [Twitter](https://twitter.com/Amy_Hupe)
 - [LinkedIn](https://www.linkedin.com/in/amy-hupe-61a3a368/)
 
+## Testimonials
+
+[See my testimonials](/testimonials) to learn what it's like to work with me.
+
