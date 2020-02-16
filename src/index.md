@@ -43,3 +43,7 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 [Opening up the GOV.UK Design System for contribution](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/)
 
 [Introducing the GOV.UK Design System](https://gds.blog.gov.uk/2018/06/22/introducing-the-gov-uk-design-system/)
+
+## Contact me
+
+If you've got a question or you'd like to work with me <br> [get in touch](/contact)
