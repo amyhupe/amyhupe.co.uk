@@ -73,7 +73,7 @@ It feels good to be making things open.
 
 ## Things I read, watched and listened to
 
-- [Accessibility London #33](You can see the video of the talks here)
+- [Accessibility London #33](https://www.youtube.com/watch?v=-TIlI0igUzw)
 - [This moving piece by Aisling Bea](https://www.theguardian.com/lifeandstyle/2017/nov/04/aisling-bea-my-fathers-death-has-given-me-a-love-of-men-of-their-vulnerability-and-tenderness) on how her father’s death has given her an appreciation for the hidden vulnerability of men
 - [How leaders can open up to their teams without oversharing](https://hbr.org/2019/02/how-leaders-can-open-up-to-their-teams-without-oversharing)
 
