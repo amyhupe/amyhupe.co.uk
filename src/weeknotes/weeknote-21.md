@@ -7,7 +7,7 @@ description: London Accessibility meetup, speaking at the company standup, and f
 
 ## Good things
 
-## Accessibility meetup
+### Accessibility meetup
 
 On Thursday night, I went to the 33rd Accessibility London meetup to watch 2 brilliant speakers.
 
@@ -19,7 +19,7 @@ In both talks, the speakers talked about their own personal experiences, which w
 
 A couple of bonus highlights—aside from the insightful talks—were eating an entire pizza to myself, and catching up with my former GDS content design colleagues [Marian](https://twitter.com/madebymarian) and [Kevin](https://twitter.com/appccessible). 
 
-## Working on a new blog post
+### Working on a new blog post
 
 I haven’t had much time for blogging since I started in my new role, but the past couple of weeks I’ve been working on a pair-written post with [Simon](https://twitter.com/simonwhatley), who I worked with at GDS.
 
@@ -28,6 +28,8 @@ Before joining GDS, Simon worked on the local design system for the Ministry of 
 We’ve set ourselves a deadline of 29 February to publish something—so watch this space!
 
 ## Learned things
+
+### Parkinson's is more than tremors
 
 From Yvette’s talk at Accessibility London, I learned that [Parkinson’s disease has more symptoms than the tremors](https://www.myparkinsonsteam.com/resources/parkinsons-what-people-dont-see-infographic) we typically associate with it.
 
