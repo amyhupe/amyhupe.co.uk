@@ -37,7 +37,7 @@ Last Sunday, [Ignacia](https://twitter.com/ignaciaorellana) treated me to a deli
 
 The class was a birthday present, and it couldn’t have come at a better time. I was really stuck in my head last week and feeling quite stressed out, so having the chance to focus on something distracting and tactile (clay is so wonderfully cold!) was just what I needed.
 
-In a couple of weeks, I’ll get to collect the pot I made once it’s been glazed and fired. I have to admit it doesn’t _quite_ look like these guys, it’s a little more… rustic, but I’ll treasure it nonetheless.
+In a couple of weeks, I’ll get to collect the pot I made once it’s been glazed and fired. I have to admit it doesn’t _quite_ look like the ones on their website. It's a little more... rustic. But I'll treasure it nonetheless.
 
 
 ### Welcome back, fiction
@@ -69,5 +69,5 @@ We’ve still got work to do, but there’s a sense that we’re working more ef
 ## Things I read, watched and listened to
 
 - I re-read chapter 2 in [Alla Kholmatova’s Design Systems](https://www.smashingmagazine.com/design-systems-book/) in which she explains the importance of design principles, what makes a good one, and how to create them. It turns out that book is still as helpful as it was when I first read it nearly 3 years ago.
-- [Why the GOV.UK Design System changed input type for number](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/), a brilliant blog post summarising a deep investigation by one of the team’s frontend developers, Hanna
-- [This podcast on the GOV.UK Design System](https://gds.blog.gov.uk/2020/02/28/podcast-gov-uk-design-system/) with my friend and former colleague, [Tim](https://twitter.com/timpaul)
+- [Why the GOV.UK Design System changed input type for number](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/), a brilliant blog post summarising a deep investigation by one of the team’s frontend developers, Hanna.
+- [This podcast on the GOV.UK Design System](https://gds.blog.gov.uk/2020/02/28/podcast-gov-uk-design-system/) with my friend and former colleague, [Tim](https://twitter.com/timpaul).
