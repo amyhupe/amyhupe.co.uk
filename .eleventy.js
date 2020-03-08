@@ -1,6 +1,5 @@
 const moment = require('moment');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
-const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster');
 const MarkdownNunjucksExtension = require('nunjucks-markdown/lib/markdown_tag');
 const marked = require('marked');
 
@@ -16,8 +15,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.addNunjucksTag('markdown', function(nunjucksEngine) {
     return new MarkdownNunjucksExtension(nunjucksEngine, marked);
   });
-
-  eleventyConfig.addPlugin(cacheBuster(cacheBusterOptions));
 
   eleventyConfig.addPlugin(pluginRss);
 
