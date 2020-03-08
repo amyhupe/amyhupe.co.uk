@@ -47,18 +47,6 @@ So good old [Adam](https://twitter.com/adambsilver) has been helping me. We crea
 
 I’m not in any particular hurry to do this, but I’ll post updates when I have them. 
 
-### Publishing accessible components
-
-Since I joined the design system squad at Babylon, our focus has been to document existing iOS and Android components to stem the flow of inconsistency and duplication of effort across products. 
-
-The past couple of sprints we've been working on designing, building and documenting some new components for web, starting from scratch.
-
-This means we've been able to focus on building them with the correct standards and system thinking in mind, and importantly, we've been working with an accessibility expert to ensure they work for everyone.
-
-On Friday, we broke the "never ship anything on a Friday" rule to publish the first one: a primary navigation component.
-
-It's one-page in the design system, but I'm proud of it because of what it represents: a well-functioning design system team, collaborating well to deliver high-quality work that benefits others. 
-
 ## Not-work things
 
 ### A trip to The Cotswolds
