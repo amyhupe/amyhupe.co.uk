@@ -123,3 +123,7 @@ Creating separate design systems or patterns to support this work only deepens t
 Removing the arbitrary line between internal and external users helps us to maximise opportunities to reuse solutions and create scalable, flexible design patterns.
 
 And finally, creating design systems that focus on user needs rather than user types means we can design usable, inclusive experiences, for all of our users.
+
+## Acknowledgements
+
+Another enormous thank you to the ever-supportive [Adam Silver](https://adamsilver.io/) for his invaluable feedback on this article, for designing the illustrations, and for always encouraging me to overcome my imposter syndrome and share my thoughts.
