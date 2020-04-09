@@ -6,7 +6,7 @@ heading: Hello.
 sub: I'm Amy. I'm a content designer and design systems expert, making the case for simplicity and inclusion in the face of complexity.
 ---
 
-Right now, I'm product managing the design system at [Babylon Health](babylonhealth.com).
+Right now, I'm product managing the design system at [Babylon Health](https://www.babylonhealth.com/).
 
 Before that, I spent 3 years working at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) on the [GOV.‌UK Design System](https://design-system.service.gov.uk/).
 

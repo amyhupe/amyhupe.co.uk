@@ -7,6 +7,18 @@ heading: Testimonials
 sub: Some words to give you a sense of what it's like to work with me from the people who have.
 ---
 
+## A programatic and inclusive leader
+
+Amy joined our design system team as product manager, instantly demonstrating programatic leadership, balancing getting stuff done with getting stuff done well.
+
+Amy’s experience working on award-winning design systems coupled with an extensive content design background was evident through her ability to see through the distracting muse of perfectionism, and provide clear direction on what good looks like and needs to be.
+
+In a short space of time, Amy has lead the transformation of a fairly siloed team, into a candid collaborative team environment that fosters inclusivity, ensuring every team member is able to contribute ideas, be heard, and be valued.
+
+— Amy also bakes fantastic cakes!
+
+*-[Elliott Greaves](https://www.linkedin.com/in/elliottgreaves/)*
+
 ## "Clarity is her superpower"
 
 Amy is one of the most talented content designers I’ve ever worked with. Clarity is her superpower, and she makes everything structured and straightforward with words. Her success as a Product Manager is in no small part linked to her ability to write clearly and concisely.  
