@@ -3,10 +3,10 @@
 title: Why you don't need a separate design system for internal services
 date:   2020-04-09 
 categories: design systems
-description: Why you don't need a separate design system or design patterns for internal services, like staff tools.
+description: Why you don't need a separate design system or design patterns for internal services, like colleague tools.
 ---
 
-Over the years, staff-facing tools and services have suffered from a real lack of user-centred design.
+Over the years, internal tools and services have suffered from a real lack of user-centred design.
 
 Whether it’s requesting holiday through an HR portal, updating a website using a CMS, or managing user accounts through an administrative system, these activities are often needlessly painful, forcing us to wrestle with UI that we’d never dream of giving to our external users.
 
@@ -28,25 +28,25 @@ And this principle is just as applicable outside of government. If we want to cr
 
 ## Building a separate design system makes the problem worse
 
-The reason that so many staff tools are poorly-designed, is that they’ve consistently been treated as secondary—or at the very least, separate—to the products we build for our customers.
+The reason that so many internal tools are poorly-designed, is that they’ve consistently been treated as secondary—or at the very least, separate—to the products we build for our customers.
 
 Creating separate design systems to support internal services deepens this disconnect, creating a breeding ground for unhelpful and false ideas like:
 
 - internal services don’t need to be accessible
-- we don’t need user research on staff tools
+- we don’t need user research on internal tools
 - our users are experts so we don’t need to use plain language
 
 To truly improve the state of our internal services, we have to centralise the process of designing them. And that means doing the hard work to serve them with our existing design systems. 
 
 ## Creating separate patterns won’t help either
 
-Just as I wouldn’t advocate creating a separate design system for internal services, I’d urge against creating specific staff-facing patterns.
+Just as I wouldn’t advocate creating a separate design system for internal services, I’d urge against creating specific internal service patterns.
 
 Admittedly, doing so might be the simpler option in the short term. There’d be no tedious updating of patterns to make them work for internal services, or work to incorporate existing design patterns into established staff tools.
 
-But long-term, it’s a sustainability nightmare. Maintaining at least 2 versions of each pattern —one for consumers, one for staff—is inefficient, and creates needless complexity for the many teams who work on both the consumer and staff-facing sides of their service.
+But long-term, it’s a sustainability nightmare. Maintaining at least 2 versions of each pattern —one for consumers, one for colleagues—is inefficient, and creates needless complexity for the many teams who work on both the consumer and colleague-facing sides of their service.
 
-## Designing patterns for staff-facing services
+## Designing patterns for internal services
 
 ### Look for the overlaps before the discrepancies
 
@@ -56,17 +56,17 @@ For starters, as well as context-attentive design patterns, most good design sys
 
 These foundational elements really don’t care where they’re used, so extending them to our staff tools should be straightforward, and reduces our maintenance costs. The hard work has been done, so why do it again?
 
-Even when it comes to more context-specific aspects of our system, the beliefs that underpin differences in our staff and consumer-facing services are often false. 
+Even when it comes to more context-specific aspects of our system, the beliefs that underpin differences in our colleague and consumer-facing services are often false. 
 
-For example, a common objection to using certain content conventions in staff-facing services is that it dumbs down and frustrates experts. But there’s plenty of evidence to show that [even experts prefer plain language](https://www.nngroup.com/articles/plain-language-experts/).
+For example, a common objection to using certain content conventions in internal services is that it dumbs down and frustrates experts. But there’s plenty of evidence to show that [even experts prefer plain language](https://www.nngroup.com/articles/plain-language-experts/).
 
-And an even more unpleasant belief held by some is that staff services don’t need to be accessible, leading to staff UI that’s riddled with “space-saving” form controls, images and icons missing alt-text, and poor contrast ratios. 
+And an even more unpleasant belief held by some is that tools for our colleagues don’t need to be accessible, leading to UI that’s riddled with “space-saving” form controls, images and icons missing alt-text, and poor contrast ratios. 
 
 But given that [there are 13.9 million disabled people in the UK](https://www.scope.org.uk/media/disability-facts-figures/) alone, it’s nonsensical to assume none of them do, or could, work in your organisation. 
 
 What’s more, there’s a wealth of research that shows [designing accessible services makes them universally more intuitive to use](https://www.microsoft.com/design/inclusive/).
 
-By challenging our beliefs about what differentiates staff and consumer-facing services and looking for areas of overlap, we can more easily create solutions that work for both. 
+By challenging our beliefs about what differentiates colleague and consumer-facing services and looking for areas of overlap, we can more easily create solutions that work for both. 
 
 ### Consider user needs over user types
 
@@ -108,7 +108,7 @@ For the customer account management tool, perhaps we know our users are mostly a
 	</figure>
 </div>
 
-_(Note: the approach shown in the last example could be just as useful for a regularly-accessed consumer-facing service like an email inbox. If we’d tucked it away in a separate design system for staff services, we might have missed this opportunity.)_ 
+_(Note: the approach shown in the last example could be just as useful for a regularly-accessed consumer-facing service like an email inbox. If we’d tucked it away in a separate design system for internal services, we might have missed this opportunity.)_ 
 
 In both cases described above, the button in question can be designed and built identically, but the usage guidance needs to acknowledge and accommodate the different scenarios.
 
@@ -116,7 +116,7 @@ By considering the range of scenarios in which our components and patterns might
 
 ## In conclusion
 
-Staff members are users too, and it’s important that we uphold the same standards for internal services as we do for consumer-facing products.
+Our colleagues are users too, and it’s important that we uphold the same standards for internal services as we do for consumer-facing products.
 
 Creating separate design systems or patterns to support this work only deepens the divide, making it harder to see the overlaps in our work.  
 
