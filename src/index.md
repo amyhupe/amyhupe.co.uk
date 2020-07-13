@@ -6,11 +6,11 @@ heading: Hello.
 sub: I'm Amy. I'm a content designer and design systems expert, making the case for simplicity and inclusion in the face of complexity.
 ---
 
-Right now, I'm product managing the design system at [Babylon Health](https://www.babylonhealth.com/).
+Right now, I'm working as product owner for the design system at [BT](https://www.bt.com/broadband/deals?s_cid=con_ppc_maxus_vidZ60_T1&vendorid=Z60&ds_rl=1000720&ds_rl=1276299&ds_rl=1276299&gclid=CjwKCAjwjLD4BRAiEiwAg5NBFrjq0XCXNtJ3XyMsXWY4SKSQhRhBAIKRbfG1_ZsBxhGvWYcSOG78ehoC_q4QAvD_BwE&gclsrc=aw.ds). 
 
-Before that, I spent 3 years working at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) on the [GOV.‌UK Design System](https://design-system.service.gov.uk/).
+Before that, I was product managing the design system at [Babylon Health](https://www.babylonhealth.com/) and before _that_, I spent 3 years at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) as content lead for the [GOV.‌UK Design System](https://design-system.service.gov.uk/).
 
-And prior to GDS, I worked at [Which?](https://www.which.co.uk/) writing about everything from compost to conveyancing. 
+Prior to GDS, I worked at [Which?](https://www.which.co.uk/) writing about everything from compost to conveyancing. 
 
 I care about making services accessible and inclusive, starting with the basics – the words we use to talk about them.
 
@@ -18,21 +18,21 @@ I also make food and take [photographs](https://www.instagram.com/saltsweetsours
 
 ## Latest articles and talks
 
+[Why you don't need a separate design system for internal services](/articles/why-you-dont-need-a-separate-design-system-for-internal-services/)
+
+[So that was 2019...](/articles/so-that-was-2019/)
+
 [NUX8: Inclusive documentation](https://2019.nuxconf.uk/speakers/amy-hupe/)
 
 [Level Up: Enabling contribution to the GOV.UK Design System](https://www.youtube.com/watch?v=GMFPp21u9_M&feature=youtu.be)
 
-[Design systems: 5 lessons in enabling contribution](https://amyhupe.co.uk/articles/5-lessons-on-enabling-design-system-contribution/)
+[Design systems: 5 lessons in enabling contribution](/articles/5-lessons-on-enabling-design-system-contribution/)
 
-[10 More Blog posts update](https://amyhupe.co.uk/articles/10-more-blog-posts-update/)
-
-[A week in my life as a content designer](https://amyhupe.co.uk/articles/my-content-design-week/)
-
-[Let's write more blog posts: an experiment](/articles/lets-write-more-blog-posts-an-experiment/)
-
-[Patterns Day: Design system documentation matters](https://vimeo.com/345902920)
+[10 More Blog posts update](/articles/10-more-blog-posts-update/)
 
 ## Things I've written elsewhere
+
+[The trouble with mailto email links and what to do instead](https://adamsilver.io/articles/the-trouble-with-mailto-email-links-and-what-to-do-instead/)
 
 [4 ways design systems can promote accessibility - and what they can't do](https://24ways.org/2019/four-ways-design-systems-can-promote-accessibility/)
 
