@@ -7,7 +7,15 @@ heading: Testimonials
 sub: Some words to give you a sense of what it's like to work with me from the people who have.
 ---
 
-## A programatic and inclusive leader
+## "The most talented content person I know"
+
+Amy is the most talented content person I know. I hired her to edit my course and she completely transformed it into a supremely solid content system. I’ve now got a style guide not just for design system elements, but also for language and tone, which will have a huge, long term positive impact on my business.
+
+Her work has not only had a huge impact on the project I hired her for—but on me in general. I feel like I have learned more about writing during this project with Amy than I have in all my years of writing. I couldn’t recommend that your hire her more if I tried.
+
+*—[Andy Bell](https://hankchizljaw.com/)*
+
+## "A programatic and inclusive leader"
 
 Amy joined our design system team as product manager, instantly demonstrating programatic leadership, balancing getting stuff done with getting stuff done well.
 
