@@ -1,5 +1,5 @@
 ---
-title: Weeknote 25: Ramsay Hunt Syndrome update
+title: "Weeknote 25: Ramsay Hunt Syndrome update"
 date: 2020-05-19
 categories:
 description: 
