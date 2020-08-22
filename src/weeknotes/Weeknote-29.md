@@ -1,3 +1,10 @@
+---
+title: "Weeknote 29"
+date: 2020-08-22
+categories:
+description: multi-brand design systems, responsible content design, cutting down my screen time, and a health update.
+---
+
 I kind of liked my structureless weeknote last week so I’m going to carry on with it until the next time I change my mind. Are new weeknote formats going to become my new biennial fringe?
 
 ## Workshopping a multi-brand design system
