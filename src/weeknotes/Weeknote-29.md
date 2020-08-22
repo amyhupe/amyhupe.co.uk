@@ -45,7 +45,7 @@ And I’m not sure if it’s the novelty, but it’s working. It’s making me m
 
 Since I wrote about developing [synkinesis](https://www.facialpalsy.org.uk/support/patient-guides/synkinesis-advice/) a couple of weeknotes ago, this week it’s definitely cranked up a notch.
 
-Synkinesis is a complication of facial palsy, where damaged nerve fibres regrow to the wrong face. In my case, one of the nerve fibres that’s meant to control my eye closure now runs to the corner of my mouth, so when I blink, the corner of my mouth turns up and my cheek tightens. 
+Synkinesis is a complication of facial palsy, where damaged nerve fibres regrow to the wrong part of your face. In my case, one of the nerve fibres that’s meant to control my eye closure now runs to the corner of my mouth, so when I blink, the corner of my mouth turns up and my cheek tightens. 
 
 It’s weird and uncomfortable and it makes me feel like I can’t control my face properly, and self-conscious about what it looks like to others. It’s been compounded this week by a lot of twitching in my face, pain and fatigue (usually signs of nerve regrowth).
 
