@@ -56,7 +56,7 @@ I left Babylon while the design system was still in its early stages, but I’d 
 
 As important as contribution is to a successful design system, it’s often not possible to design, test and maintain a process for supporting it, whilst simultaneously building the system to a point that’s useful enough for teams to start working with. After all, no one wants to contribute to a system that no one’s using.
 
-And though some may argue that contribution could help you to grow the system more quickly, in my experience that’s never the reality. (See point 5 in my previous article on [enabling contribution](https://amyhupe.co.uk/articles/5-lessons-on-enabling-design-system-contribution/)).
+And though some may argue that contribution could help you to grow the system more quickly, in my experience that’s never the reality. (See point 5 in my previous article on [enabling contribution](https://amyhupe.co.uk/articles/5-lessons-on-enabling-design-system-contribution/).)
 
 With that in mind, a small design system team with limited capacity needs to make some trade-offs in the early stages of its development. 
 
