@@ -1,7 +1,7 @@
 ---
 
 title: Case study: Enabling contribution in the early stages of the Babylon Health design system
-date:   2020-02-01
+date:   2021-02-01
 categories: design systems
 description: A case study explaining how we implemented a contribution model in the early stages of building the Babylon Health design system
 ---
