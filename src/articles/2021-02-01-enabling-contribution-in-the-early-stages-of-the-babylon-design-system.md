@@ -62,6 +62,6 @@ With that in mind, a small design system team with limited capacity needs to mak
 
 Finding a way to proactively encourage contribution to the components and patterns you’re already working on is one way to do this—but this practice should evolve over time.
 
-As a system matures and starts to stabilise, it makes sense to loosen the reins and allow the systems users to contribute organically: to let them share what they’ve discovered and find a mechanism for them to centralise and share that knowledge and experience with others in the organisation. 
+As a system matures and starts to stabilise, it makes sense to loosen the reins and allow the system's users to contribute organically: to let them share what they’ve discovered and find a mechanism for them to centralise and share that knowledge and experience with others in the organisation. 
 
 Constraints are always critical but, over time, those constraints can become system standards, providing helpful guardrails that focus more on the how, and less on the what. 
