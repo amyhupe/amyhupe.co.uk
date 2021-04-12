@@ -15,7 +15,7 @@ For 3 years I worked at the UK Government Digital Service (GDS) as content lead 
 
 I joined the project in its alpha phase, and remained on the team as it moved through private beta and for 18 months after its launch. 
 
-I lead on developing the team’s documentation strategy with a focus on simplicity and inclusion. I worked to design guidance and documentation that was findable, accessible and comprehensive for the 700 teams using it. Those teams included a mix of people—from those new to government to seasoned civil servants; designers, content designers, developers, product managers and user researchers; and junior practitioners to experienced experts. 
+I lead on developing the team’s documentation strategy with a focus on simplicity and inclusion. I worked to design guidance and documentation that was findable, accessible and comprehensive for around 700 teams who'd be using it. Those teams included a mix of people—from those new to government to seasoned civil servants; designers, content designers, developers, product managers and user researchers; and junior practitioners to experienced experts. 
 
 In addition, I worked closely with our service designer and then independently to develop a cross-government contribution model.
 
