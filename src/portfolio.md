@@ -38,7 +38,7 @@ After successfully supporting the team to launch DNA, my contract was extended f
 
 Unfortunately, just a few weeks into my extension, I suffered a rare illness called Ramsay Hunt Syndrome which meant I had to terminate my contract prematurely and take 2 months off to recover. 
 
-## More on my work on the Babylon Health design system
+### More on my work on the Babylon Health design system
 
 - [Introducing Babylon DNA](https://dna.babylonhealth.com/introducing-babylon-dna)
 - [Enabling contribution in the early stages of the Babylon Health design system](https://amyhupe.co.uk/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system/)
