@@ -22,7 +22,7 @@ In addition, I worked closely with our service designer and then independently t
 ### More on my work on the GOV.UK Design System
 
 - [How we documented components and patterns in the GOV.UK Design System](https://designnotes.blog.gov.uk/2018/11/05/how-we-document-components-and-patterns-in-the-gov-uk-design-system/) (blog post)
-- [/articles/example-copy-in-design-systems/](Handling example copy in design systems) (blog post)
+- [https://amyhupe.co.uk/articles/example-copy-in-design-systems/](Handling example copy in design systems) (blog post)
 - [My Patterns Day talk on inclusive documentation](https://vimeo.com/345902920) (video)
 - [How we opened up the GOV.UK Design System for contribution](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/) (blog post)
 - [Research into how the GOV.UK Design System works alongside other government design resources](https://designnotes.blog.gov.uk/2019/02/14/how-the-gov-uk-design-system-can-work-alongside-other-government-design-resources/) (blog post)
