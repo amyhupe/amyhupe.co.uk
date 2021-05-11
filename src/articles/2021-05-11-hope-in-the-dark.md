@@ -1,6 +1,6 @@
 ---
 
-title: Hope in the dark
+title: "Hope in the dark: a post for mental health awareness week"
 date:   2021-05-11
 categories: mental health
 description: Notes on my recent struggles with anxiety and depression and what helped me through
