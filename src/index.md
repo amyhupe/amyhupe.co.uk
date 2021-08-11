@@ -3,10 +3,10 @@ layout: layouts/page.njk
 permalink: /
 id: home
 heading: Hello.
-sub: I'm Amy. I'm a content designer and design systems expert, making the case for simplicity and inclusion in the face of complexity.
+sub: I'm Amy. I'm a content design and design systems consultant, making the case for simplicity and inclusion in the face of complexity.
 ---
 
-Right now, I'm working as a content design consultant with [Mace & Menter](https://www.macementer.com/).
+Right now, I'm working on design systems at [Springer Nature](https://www.springernature.com/gp).
 
 I've worked as product owner for design systems at [BT](https://www.bt.com/broadband/deals?s_cid=con_ppc_maxus_vidZ60_T1&vendorid=Z60&ds_rl=1000720&ds_rl=1276299&ds_rl=1276299&gclid=CjwKCAjwjLD4BRAiEiwAg5NBFrjq0XCXNtJ3XyMsXWY4SKSQhRhBAIKRbfG1_ZsBxhGvWYcSOG78ehoC_q4QAvD_BwE&gclsrc=aw.ds) and [Babylon Health](https://www.babylonhealth.com/) and I spent 3 years at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) as content lead for the [GOV.‌UK Design System](https://design-system.service.gov.uk/).
 
@@ -14,21 +14,19 @@ Prior to GDS, I worked at [Which?](https://www.which.co.uk/) writing about every
 
 I care about making services accessible and inclusive, starting with the basics – the words we use to talk about them.
 
-I also make food and take [photographs](https://www.instagram.com/saltsweetsourspice/) of it.
-
 ## Latest articles and talks
 
-[Why you don't need a separate design system for internal services](/articles/why-you-dont-need-a-separate-design-system-for-internal-services/)
+[From content designer to product manager](/articles/content-designer-to-product-manager) (blog post)
 
-[So that was 2019...](/articles/so-that-was-2019/)
+[Enabling contribution in the early stages of the Babylon Health design system](/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system) (blog post)
+
+[Why you don't need a separate design system for internal services](/articles/why-you-dont-need-a-separate-design-system-for-internal-services/) (blog post)
 
 [NUX8: Inclusive documentation](https://2019.nuxconf.uk/speakers/amy-hupe/)
 
-[Level Up: Enabling contribution to the GOV.UK Design System](https://www.youtube.com/watch?v=GMFPp21u9_M&feature=youtu.be)
+[Level Up: Enabling contribution to the GOV.UK Design System](https://www.youtube.com/watch?v=GMFPp21u9_M&feature=youtu.be) (video)
 
-[Design systems: 5 lessons in enabling contribution](/articles/5-lessons-on-enabling-design-system-contribution/)
-
-[10 More Blog posts update](/articles/10-more-blog-posts-update/)
+[Design systems: 5 lessons in enabling contribution](/articles/5-lessons-on-enabling-design-system-contribution/) (blog post)
 
 ## Things I've written elsewhere
 
