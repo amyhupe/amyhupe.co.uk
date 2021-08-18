@@ -22,7 +22,7 @@ I care about making services accessible and inclusive, starting with the basics 
 
 [Why you don't need a separate design system for internal services](/articles/why-you-dont-need-a-separate-design-system-for-internal-services/) (blog post)
 
-[NUX8: Inclusive documentation](https://2019.nuxconf.uk/speakers/amy-hupe/)
+[NUX8: Inclusive documentation](https://2019.nuxconf.uk/speakers/amy-hupe/) (video)
 
 [Level Up: Enabling contribution to the GOV.UK Design System](https://www.youtube.com/watch?v=GMFPp21u9_M&feature=youtu.be) (video)
 
