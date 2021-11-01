@@ -1,18 +1,21 @@
 ---
 
 title: "My NaBloPoMo debut: Day 1"
-date:   2018-11-01
+date:   2021-11-01
 categories:
 description: My first ever post for my first ever National Blog Posting Month
 ---
 
 I’m taking part in National Blog Posting Month, or “NaBloPoMo”, for short.
 
+## NaBloPo... what?
+
 I first became aware of NaBloPoMo via my former GDS colleague [Steve Messer](https://twitter.com/stevenjmesser), who is a much more consistent blogger than I, and has participated in it for at least the past couple of years. (Sorry Steve, I haven’t gone to the effort of checking your exact inaugural year. And everyone else, that’s an example of the kind of meticulous fact-verification you should expect from me over the next month.)
 
 As I understand it (read: [as this post told me](https://wordpress.com/blog/2014/10/24/the-namos-are-coming-the-namos-are-coming/)) NaBloPoMo was founded by an American blogger called Eden Kennedy, in response to National Novel Writing Month (NaNoWriMo). 
 
 It encourages participants to write a blog post every day throughout November, to break away from perfectionist ideals that might otherwise prevent them from sharing their work.
+
 Since “perfectionist ideals” is (are?) my middle name(s?), I thought this year I’d give it a go. 
 
 ## My starting point
@@ -38,6 +41,7 @@ I’m intending to challenge my natural urge to refine my ideas to perfection be
 ## What you should expect from me
 
 I’m going to do my best to stick to this and post daily throughout the month, but I’m going to be flexible with topics. I’m planning to write about a mixture of things, both work-related and personal.
+
 And since one of my objectives here is to challenge my perfectionist tendencies, my writing is probably going to be a little less polished than usual. I’m going to allow myself a quick top-to-bottom proof-read of each post, and then I’m going to hit publish.
 
 ## Let’s go
@@ -46,6 +50,6 @@ And so we begin.
 
 Are you taking part in NaBloPoMo? I’d love to read your posts if you are. 
 
-Or, if there’s something you’d like me to write about, let me know—I need all the help I can get.
+Or, if there’s something you’d like me to write about, let me know—I need all the inspiration I can get.
 
 [Get in touch on Twitter](https://twitter.com/Amy_Hupe) or drop me an email at [amy.l.hupe@gmail.com](mailto:amy.l.hupe@gmail.com).
