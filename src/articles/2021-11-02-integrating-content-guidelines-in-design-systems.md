@@ -74,9 +74,9 @@ Even linking to relevant content guidelines from individual documentation pages 
 	</figure>
 </div>
 
-Although this approach shows the design system team has made more effort to highlight content design guidelines at the right points in the journey, it still requires someone to go somewhere else to look at them. 
+Using placeholder content, like "error message goes here" in component examples is a missed opportunity to demonstrate what good content design looks like. (For more on this particular subject, see my post on [handling example copy in design systems](/articles/example-copy-in-design-systems/).)
 
-And unless they consider it their job to do this, they’re probably not going to.
+And although this approach shows the design system team has made more effort to highlight content design guidelines at the right points in the journey, it still requires someone to go somewhere else to look at them. Unless they consider it their job to do this, they’re probably not going to.
 
 ## Combine content and design guidelines
 
