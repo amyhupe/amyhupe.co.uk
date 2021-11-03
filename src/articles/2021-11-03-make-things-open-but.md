@@ -36,7 +36,8 @@ It means being clear in our intent to help people to find and understand the thi
 To me, that means that they’re:
 
 - **findable** - so people can discover it in the first place
-- **easy to navigate** - so people can scan and search our content 
+- **inclusive** - so people can access and understand our content
+- **easy to navigate** - so people can scan and search our content
 - **relevant** - so people know if it’s for them
 - **useful** - so we achieve our goals of making it open
 
