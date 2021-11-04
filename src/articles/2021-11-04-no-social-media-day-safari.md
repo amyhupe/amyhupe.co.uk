@@ -1,5 +1,5 @@
 ---
-title: No social media day safari
+title: No Social Media Day safari
 date:   2021-11-04
 categories:
 description: Join me on a day's hiatus from social media.
