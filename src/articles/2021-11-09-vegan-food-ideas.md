@@ -13,7 +13,7 @@ I also felt stuck in a bit of a food rut, and as someone who usually enjoys cook
 
 It did.
 
-Here’s a round up of my favourite recipes and discoveries from that experiment.
+Here’s a round up of my favourite recipes and discoveries from that experiment. 
 
 ## Vegan recipes round-up
 
