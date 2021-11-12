@@ -337,3 +337,47 @@ iframe {
 		font-size: rem(20px);
 	}
 }
+
+table.a {
+	max-width: 100%;
+	font-size: rem(18px);
+	line-height: rem(25px);
+	text-align: left;
+	vertical-align: text-bottom;
+	
+	@include
+	 mq($from: md) {
+	max-width: 75%;
+	font-size: rem(22px);
+	line-height: rem(35px);
+	}
+	}
+	
+	table.a th {
+	padding: 15px;
+	font-size: rem(19px);
+	line-height: rem(25px);
+	
+	@include
+	 mq($from: md) {
+	font-size: rem(23px);
+	line-height: rem(35px);
+	}
+	}
+	
+	table.a th:first-of-type {
+	width: 25%; // if you want to define the width of the first column in % or px
+	}
+	
+	table.a td {
+	padding: 15px;
+	vertical-align: top;
+	}
+	
+	table.a tr {
+	vertical-align: top;
+	}
+	
+	table.a tr td:first-of-type {
+	font-weight: bold;
+	}
