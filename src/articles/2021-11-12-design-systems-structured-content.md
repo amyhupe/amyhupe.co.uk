@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Design systems, structured content and headless publishing
+=======
+title: Design systems and structured content
+>>>>>>> 54e92a2a70a0d348b51be8e05aedc7db8f814ef8
 date:   2021-11-12
 categories:
 description: How do we publish design system usage guidance across multiple tools and platforms? Could structured content provide a solution?
