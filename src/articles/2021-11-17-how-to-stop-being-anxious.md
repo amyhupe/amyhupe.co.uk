@@ -11,11 +11,11 @@ description: Some of the contradictory advice on dealing with anxiety.
 
 3. Let yourself rest. Run! Burn off that anxious energy with exercise. Go for long walks. Lie down and read.
 
-4. Sleep as much as you need to. Don’t nap during the daytime or you won’t sleep at night. Go to bed at the same time every night. Here are some stressful thoughts about sleep: Too much sleep is bad for you; A lack of sleep is bad for you; Stress affects your sleep. 
+4. Sleep as much as you need to. Don’t nap during the daytime or you won’t sleep at night. Go to bed at the same time every night. Here are some stressful thoughts about sleep: Too much sleep is bad for you; A lack of sleep is bad for you. But don't get stressed about sleep: Stress affects your sleep. 
 
 5. Trust your gut. Follow your instincts. Also, feel the fear and do it anyway. 
 
-6. Greet your feelings like guests. “Welcome and entertain them all”, like Rumi said. But remember that feelings are just feelings and thoughts are just thoughts: they don’t control you. Honour all of your emotions. Choose happiness.
+6. Greet your feelings like guests. “Welcome and entertain them all”, like Rumi said. But remember that feelings are just feelings and thoughts are just thoughts: they don’t control you. Honour all of your emotions equally. Choose happiness.
 
 7. Accept the things you cannot control. Be the change you want to see in the world. Shoot for the moon, you’ll never know what you’re capable of until you try. Respect your limitations.
 
