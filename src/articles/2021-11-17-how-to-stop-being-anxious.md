@@ -21,7 +21,7 @@ description: Some of the contradictory advice on dealing with anxiety.
 
 8. Don’t compare yourself to others: everyone’s path is different. You do you. Also, I fixed my anxiety and you can, too. Just do exactly this.
 
-9. Take time for yourself. Embrace solitude. Resist the urge to withdraw. Do something for someone else. Put yourself first. Spent time with others. Spent time alone in nature.
+9. Take time for yourself. Embrace solitude. Resist the urge to withdraw. Do something for someone else. Put yourself first. Spend time with others. Spend time alone in nature.
 
 10. Ignore your anxious voice. _Befriend_ your anxious voice, it’s not the enemy, it’s trying to help you out. It’s making a pig’s ear of it though, so don’t let it run the show. Anxiety is just an overprotective friend. But _you_ are not your anxiety - of course not! No one wants to be that guy. But listen to it and talk back to it. Kindly.
 
