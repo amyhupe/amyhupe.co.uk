@@ -55,7 +55,7 @@ The problem is that these concerns _do_ exist and _are_ valid, but by taking up 
 
 We see this phenomenon playing out in group scenarios too, often with much more significant societal and political implications. 
 
-In [Jay Caspian King’s New York Times article on Critical Race Theory](https://www.nytimes.com/2021/11/11/opinion/critical-race-theory.html?referringSource=articleShare), he discusses “binary consensus building”, which occurs when “people draw a line in the sand, oftentimes arbitrarily, and say that if you don’t align yourself completely with their solution [...] you must be sleeping with the enemy.”
+In [Jay Caspian Kang’s New York Times article on Critical Race Theory](https://www.nytimes.com/2021/11/11/opinion/critical-race-theory.html?referringSource=articleShare), he discusses “binary consensus building”, which occurs when “people draw a line in the sand, oftentimes arbitrarily, and say that if you don’t align yourself completely with their solution [...] you must be sleeping with the enemy.”
 
 Jay explains that creating a hard dichotomy between those who are for and against teaching critical race theory in schools has made it impossible for those who support it to challenge details of its implemetation, without a perception that they've "switched sides". 
 
