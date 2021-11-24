@@ -26,4 +26,4 @@ It’s just that:
 - Everything seems futile
 - I feel happy for the first time in a while and I wanted to spend those precious moments somewhere else
 - I was paralysed into action by the guilt of all the messages I haven’t responded to
-- I’m a ~~poor excuse for~~ a human
+- I’m ~~a poor excuse for~~ a human
