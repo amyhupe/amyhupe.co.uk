@@ -25,5 +25,5 @@ It’s just that:
 - ~~I was talked into another wine~~ actually no, that’s a bit Live, Laugh, Love
 - Everything seems futile
 - I feel happy for the first time in a while and I wanted to spend those precious moments somewhere else
-- I was paralysed into action by the guilt of all the messages I haven’t responded to
+- I was paralysed into inaction by the guilt of all the messages I haven’t responded to
 - I’m ~~a poor excuse for~~ a human
