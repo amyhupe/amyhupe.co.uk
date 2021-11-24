@@ -12,7 +12,6 @@ It’s just that:
 - I was having a panic attack
 - I’ve been thinking about how our society prioritises instant gratification too much and I’m busy writing you a letter
 - My cat required my attention
-- I don’t like you that much (this is rarely true)
 - I like you an awful lot and I want to give your response the attention it deserves
 - It takes more energy to respond to your email about my subject of professional expertise than it does to subtweet Boris Johnson. This isn’t a reflection of my respect for you. Please don’t DM me to highlight this perceived inconsistency
 - I had something typed to you but I’ve just found it sitting in my drafts! Don’t know what happened there.... 
