@@ -7,7 +7,7 @@ description: What happens when life takes a sledgehammer to your plans
 
 In 1941, my grandmother—my Dad’s Mum—was at home celebrating her daughter Joanna’s 2nd birthday. In the middle of the festivities, a German fighter plane dropped a bomb on the house. Joanna was killed instantly and my grandmother was badly injured, narrowly missing a leg amputation.
 
-On 1 April 1950, my other grandmother—my Mum’s Mum—was waiting for a taxi to take her to the church to marry my grandfather, who was nervously pacing while he waited for her arrival. The taxi, having been booked fairly last minute—for 1 April—assumed it was an April Fools’ joke and never turned up. My grandmother had no choice but to run into the street and hitchhike to her wedding.
+On 1 April 1950, my other grandmother—my Mum’s Mum—was waiting for a taxi to take her to the church to marry my grandfather, who was nervously pacing while he waited for her arrival. The taxi, having been booked fairly last minute and on 1 April, assumed it was an April Fools’ joke and never turned up. My grandmother had no choice but to run into the street and hitchhike to her wedding.
 
 In October 2016 I went to pick up a new kitten. He was the only boy in the litter and I’d chosen him from some pictures the owners had sent me. He had huge blue eyes, great big paws and a little white patch over one eye. I couldn’t wait to bring him home. I arrived at the house and was shown to the kittens. They handed him to me, and it was—on his part at least—disdain at first sight. He pushed his tiny paws into my chest with all his might, craning away from me and mewling desperately to be put down. I knew in my heart of hearts: this was not my cat. 
 
@@ -41,7 +41,7 @@ What I do believe is that life continues to unfold after its plot twists.
 
 My grandmother whose daughter was killed in World War II was only ever going to have 2 children. After Joanna died, she had my uncle, and after my uncle, she had my Dad. If it weren’t for that night, neither he nor I would be here, and you wouldn’t be reading this blog post.
 
-And my other grandmother—the one who hitchhiked to her wedding? She made it. She married my grandfather and made the front page of the newspaper. They were happily married for 40 years before he died and had 3 children. She lived another 25 years, and regaled us often with the story of their wedding day over a glass of sherry.
+And my other grandmother—the one who hitchhiked to her wedding? She made it to the church. She married my grandfather and made the front page of the newspaper. They were happily married for 40 years before he died. They had 3 children and 9 grandchildren. She lived another 25 years, and regaled us often with the story of their wedding day over a glass of sherry.
 
 As the kitten wriggled crossly in my arms and I silently wondered if I could reasonably adopt an animal who clearly despised me, my best friend crouched down behind me and picked up his sister. I turned around to see a scruffy, docile little black bundle sitting happily in her arms, with enormous whiskers and a signature white chin that made her look like she was frowning. She is now a 5 year old cat called Mabel, who purred all the way home that day and has been an enormous beating heart in our family ever since.
 
