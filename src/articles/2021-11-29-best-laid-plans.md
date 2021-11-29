@@ -29,7 +29,7 @@ I asked my friend—a therapist—what he thinks about acceptance, and what to d
 
 That means feeling the loss of plan A: whether that's losing someone we love who wasn't supposed to go, a wedding plan gone-awry, a kitten who patently hates you, an unexpected illness, or another twist in a relentless pandemic.
 
-Acknowledging our reaction, whether it's what we'd choose to feel or not, helpful. Why? Because it's an essential part of acceptance.
+Acknowledging our reaction, whether it's what we'd choose to feel or not, is helpful. Why? Because it's an essential part of acceptance.
 
 The good and the bad news is that there's always a next chapter. 
 
