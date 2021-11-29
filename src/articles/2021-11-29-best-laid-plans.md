@@ -21,13 +21,15 @@ When our plans go awry it can be a mild inconvenience, a difficult adjustment, o
 
 When my plans are side-swiped I have a tendency to try and rush to acceptance. I feel like every second spent lamenting what’s happened is another second I’m not moving forward, into something new and more positive.
 
-I asked my friend who’s a therapist what he thinks about how we accept pain—and he said something that stuck with me. “Acceptance means you give yourself to yourself as you are.”
+But here’s what I’m learning: Rushing to move past a setback and into plan B is not—as I often tell myself—an efficient form of acceptance. It’s a numbing strategy, intellectualising a solution to avoid facing up to the disappointment or the anguish of losing plan A. Thinking so we don’t have to feel.
 
-Rushing to move past a setback and into plan B is not—as I often tell myself—an efficient form of acceptance. It’s a numbing strategy, intellectualising a solution to avoid facing up to the disappointment or the anguish of losing plan A. Thinking so we don’t have to feel.
+And it doesn't work. Telling yourself something doesn’t matter doesn’t make it not matter. Pain has a funny way of demanding your attention one way or another—putting it off is just racking up debt on an emotional credit card. Eventually, you're going to have to pay.
 
-But here’s what I’m learning. Telling yourself something doesn’t matter doesn’t make it not matter. Time passes at the same rate whether we pause to take in the view, or rush past it with our heads down and our hands in our pockets.
+I asked my friend—a therapist—what he thinks about acceptance, and what to do when bad things happen—and he said something that stuck with me: “Acceptance means you give yourself to yourself as you are.”
 
-Pain has a funny way of demanding your attention one way or another—putting it off is just racking up debt on an emotional credit card. Eventually, you're going to have to pay.
+That means feeling the loss of plan A: whether that's losing someone we love who wasn't supposed to go, a wedding plan gone-awry, a kitten who patently hates you, an unexpected illness, or another twist in a relentless pandemic.
+
+Acknowledging our reaction, whether it's what we'd choose to feel or not, helpful. Why? Because it's an essential part of acceptance.
 
 The good and the bad news is that there's always a next chapter. 
 
