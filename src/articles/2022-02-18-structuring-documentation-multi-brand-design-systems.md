@@ -8,7 +8,7 @@ description: Some options for organising guidance in multi-brand design systems
 
 I’m now working on my second multi-brand design system and am again facing the challenge of how to structure, write and present documentation for 3 different brands.
 
-Let’s assume we’re going to have to provide at least some brand specific information. This is usually the case if our brands are intentionally different, and we’re not trying to consolidate them into one.
+Let’s assume that at least some of what we provide is going to be brand-specific. This is usually the case if our brands are intentionally different, and we’re not trying to consolidate them into one.
 
 2 questions we always face with multi-brand design systems are:
 
