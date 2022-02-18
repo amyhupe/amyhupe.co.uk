@@ -73,7 +73,11 @@ It’s useful to ask what information serves our system’s users, working to re
 
 At the extreme end, we could create a separate documentation site for each individual brand.
 
-![2 design system documentation site homepages side by side. One is titled "Brand A" the other "Brand B"](/assets/images/separate-site-per-brand.png)
+<div class="image">
+	<figure>
+		<img src="/assets/images/separate-site-per-brand.png" alt="2 design system documentation site homepages side by side. One is titled Brand A the other Brand B." width="100%">
+	</figure>
+</div>
 
 This approach might be useful if:
 
@@ -92,7 +96,11 @@ That’s why I favour publishing as much guidance as possible to a common destin
 
 Another option we have is to organise our guidance by brand on our documentation site’s homepage.
 
-![a design system documentation website homepage with 3 panels in the centre labelled Brand A, Brand B and Brand C](/assets/images/homepage-brand-selection.png)
+<div class="image">
+	<figure>
+		<img src="/assets/images/homepage-brand-selection.png" alt="a design system documentation website homepage with 3 panels in the centre labelled Brand A, Brand B and Brand C." width="100%">
+	</figure>
+</div>
 
 This means most of our design system documentation will still live in brand-specific sections. But it does let us provide universal guidance _about_ our system, like:
 - an introduction
@@ -109,13 +117,21 @@ If certain parts of our system differ more than others across brands, we might c
 
 For example, we might conclude that our styles and components are different enough to warrant brand-specific sub-sections, but that our patterns can be shared.
 
-![a components section in a design system documentation website, with subsections in the side-navigation for Brands A, B and C](/assets/images/brand-specific-subsection.png)
+<div class="image">
+	<figure>
+		<img src="/assets/images/brand-specific-subsection.png" alt="a components section in a design system documentation website, with subsections in the side-navigation for Brands A, B and C." width="100%">
+	</figure>
+</div>
 
 ### 4. Use in-page navigation to split some guidance into brand-specific sections
 
 Finally, we could consider using some form of in-page navigation - like tabs - to provide some brand-specific and some universal documentation.
 
-![A documentation page for a button component. The top half of the page is labelled "universal guidance". The bottom half of the page shows content split across 3 tabs for Brands A, B and C and is labelled "brand-specific guidance"](/assets/images/brand-specific-tabs.png)
+<div class="image">
+	<figure>
+		<img src="/assets/images/brand-specific-tabs.png" alt="A documentation page for a button component. The top half of the page is labelled universal guidance. The bottom half of the page shows content split across 3 tabs for Brands A, B and C and is labelled brand-specific guidance." width="100%">
+	</figure>
+</div>
 
 This means users see only the documentation that’s relevant for them. To bolster this, we could even ensure the default open tab is based on a user’s last interaction: If they selected Brand B on their last visit, we’ll make sure Brand B is the selected tab the next time.
 
