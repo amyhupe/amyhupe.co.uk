@@ -57,7 +57,7 @@ It’s also worth thinking ahead: does the situation we’re working towards dif
 
 When thinking about how we should structure and present universal versus brand-specific information to our users, my start point is always to ask: What do they actually _need_ to know?
 
-There’s certainly something to be said for keeping our guidance consistent with the architecture of our frontend and design libraries. If components are organised into universal and brand-specific categories, it might be helpful to reflect that in the way we organise our documentation.
+There’s certainly something to be said for keeping our documentation architecture consistent with the architecture of our frontend and design libraries. If components are organised into universal and brand-specific categories, it might be helpful to reflect that in the way we organise our documentation.
 
 Then again, is this actually helpful for our users?
 
@@ -78,9 +78,9 @@ At the extreme end, we could create a separate documentation site for each indiv
 This approach might be useful if:
 
 - we know our users only ever work on one brand
-- our brands are very disparate and the guidance we need to provide for each one differs considerably
+- our brands are very disparate and the documentation we need to provide for each one differs considerably
 
-But - and this is a big but - publishing design system guidance to multiple places means maintaining that guidance across multiple places.
+But - and this is a big but - publishing design system documentation to multiple places means maintaining that documentation across multiple places.
 
 If we create completely separate destinations for each brand, we’ll probably need to provide some of the same information in each of them. In my experience, even when brands are stylistically very distinct, there are a lot of baseline principles and rules that don’t need to change.
 
@@ -94,14 +94,14 @@ Another option we have is to organise our guidance by brand on our documentation
 
 ![a design system documentation website homepage with 3 panels in the centre labelled Brand A, Brand B and Brand C](/assets/images/homepage-brand-selection.png)
 
-This means most of our design system guidance will still live in brand-specific sections. But it does let us provide universal guidance _about_ our system, like:
+This means most of our design system documentation will still live in brand-specific sections. But it does let us provide universal guidance _about_ our system, like:
 - an introduction
 - installation guidance
 - information about the design system team
 - contact details
 - contribution guidelines
 
-This is the approach we’re taking today on my current client’s design system, and my early observation is that we’re having to repeat a lot of information for each of our 3 brands.
+This is the approach we’re taking today on my current client’s design system, and my early observation is that we’re having to repeat a lot of information for each of our 3 brands - particularly in our accessibility and content guidelines.
 
 ### 3. Split some sections into brand-specific sub-sections
 
