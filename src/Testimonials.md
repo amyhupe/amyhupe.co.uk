@@ -7,6 +7,12 @@ heading: Testimonials
 sub: Some words to give you a sense of what it's like to work with me from the people who have.
 ---
 
+## "Super quick, unflappable, and solution-focused"
+
+Aside from being really very good at content design, Amy's super quick, unflappable, and solution-focused. The project would have been so much poorer without her - she joined an in-flight team, picked everything up within a matter of hours, and from then on took full responsibility for making sure that everything got done that needed to be done. I wouldn't hesitate to work with her again.
+
+*-[Kat Thackray](https://www.linkedin.com/in/katherinethackray/)
+
 ## "The most talented content person I know"
 
 Amy is the most talented content person I know. I hired her to edit my course and she completely transformed it into a supremely solid content system. I’ve now got a style guide not just for design system elements, but also for language and tone, which will have a huge, long term positive impact on my business.
