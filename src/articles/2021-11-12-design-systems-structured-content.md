@@ -1,5 +1,5 @@
 ---
-title: Design systems, structured content and headless publishing
+title: Design systems and structured content
 date:   2021-11-12
 categories:
 description: How do we publish design system usage guidance across multiple tools and platforms? Could structured content provide a solution?
@@ -69,11 +69,11 @@ Unless you work in an organisation where designers alone make these kinds of dec
 
 Neither of these solutions seems satisfactory. I worry that they’ll lead us to a place where usage guidance gets forgotten about, and our design systems turn into spec-libraries, devoid of context.
 
-## Could structured content and headless publishing be the answer?
+## Could structured content be the answer?
 
 Here’s the bit where I tell you I don’t really have an answer. 
 
-I’m a content designer thinking about a content problem, and I don’t yet know what’s technically possible, but one of the ways I think we could start to solve this problem is with structured content and headless publishing.
+I’m a content designer thinking about a content problem, and I don’t yet know what’s technically possible, but one of the ways I think we could start to solve this problem is with structured content.
 
 Structured content is content that has been broken down into its constituent elements, which are then categorised, tagged and named.
 
@@ -126,7 +126,7 @@ For example, if we were to take a structured content approach to our component u
 
 We’re effectively creating a content API that can be consumed by other applications.
 
-Using a headless publisher, we can then deliver whichever combination of those elements we think will be useful into the relevant platforms.
+We can then deliver whichever combination of those elements we think will be useful into the relevant platforms.
 
 ## The potential benefits of this approach
 

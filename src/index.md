@@ -16,18 +16,16 @@ I care about making services accessible and inclusive, starting with the basics 
 
 ## Latest articles and talks
 
-[From content designer to product manager](/articles/content-designer-to-product-manager) (blog post)
+[How to share research in design systems](/articles/sharing-research-in-design-systems) (blog post)
 
-[Enabling contribution in the early stages of the Babylon Health design system](/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system) (blog post)
+[Structuring documentation in multi-brand design systems](/articles/structuring-documentation-multi-brand-design-systems) (blog post)
 
-[Why you don't need a separate design system for internal services](/articles/why-you-dont-need-a-separate-design-system-for-internal-services/) (blog post)
+[Just a job](/articles/just-a-job) (blog post)
 
-[NUX8: Inclusive documentation](https://2019.nuxconf.uk/speakers/amy-hupe/) (video)
+[How to become unstuck when writing](articles/sprint-to-the-finish-line) (blog post)
 
-[Level Up: Enabling contribution to the GOV.UK Design System](https://www.youtube.com/watch?v=GMFPp21u9_M&feature=youtu.be) (video)
-
-[Design systems: 5 lessons in enabling contribution](/articles/5-lessons-on-enabling-design-system-contribution/) (blog post)
-
+[Design systems and structured content](articles/design-systems-structured-content) (blog post)
+ 
 ## Things I've written elsewhere
 
 [The trouble with mailto email links and what to do instead](https://adamsilver.io/articles/the-trouble-with-mailto-email-links-and-what-to-do-instead/)
