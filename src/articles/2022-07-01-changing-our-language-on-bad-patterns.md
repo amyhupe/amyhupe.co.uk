@@ -5,7 +5,13 @@ categories: design systems
 description: Why we need to retire the racist term we use to describe bad design patterns, and what to use instead.
 ---
 
-_Content warning: Racist language. This post discusses a term that’s commonly used to describe design patterns that cause problems for users. For the sake of clarity, I have used the full term once, at the beginning of this article._
+<blockquote>
+<p><strong>Content warning: Racist language</strong></p>
+<p>This post discusses a term that’s commonly used to describe design patterns that cause problems for users. For the sake of clarity, I have used the full term once, at the beginning of this article.</p>
+</blockquote>
+
+</br>
+</br>
 
 There’s been an increasing number of conversations on my Twitter timeline, lately, about the term “dark patterns”.
 
