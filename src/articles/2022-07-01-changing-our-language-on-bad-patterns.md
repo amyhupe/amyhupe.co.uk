@@ -15,9 +15,10 @@ description: Why we need to retire the racist term we use to describe bad design
 
 There’s been an increasing number of conversations on my Twitter timeline, lately, about the term “dark patterns”.
 
-Historically, lots of us in the tech and UX industry have used the term to describe bad design patterns. These include patterns that:
+The term was originally coined by [Harry Brignull](https://testimonium.co/). He used it to describe tricks used in websites and apps to make people do things they didn't mean to - like subscribing to a service or signing up to receive marketing emails. 
 
-- trick users into doing something they might not want to, like agreeing to receive marketing emails
+Since then, lots of us in the tech and UX industry have used the term to describe other kinds of bad design patterns, too. These include patterns that:
+
 - are hard to use, like captchas or selects
 - are confusing, like text inputs that provide a single line for users to type on top of, rather than a border that encloses the whole input area (thanks to Google for this one)
 - are inaccessible for disabled people, or people using certain assistive technology
@@ -49,7 +50,7 @@ In the introduction to this post I shared 5 different ways that patterns can cau
 
 Updating our language gives us an opportunity to be clearer about what we really mean, and have more nuanced discussions about sub-categories of bad patterns. For example, we could talk about:
 
-- deceptive patterns
+- deceptive patterns (this is the option now favored by Harry Brignull, who coined the original term)
 - inaccessible patterns
 - confusing patterns
 - discriminatory patterns
