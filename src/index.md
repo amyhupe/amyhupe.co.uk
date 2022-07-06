@@ -6,6 +6,12 @@ heading: Hello.
 sub: I'm Amy. I'm a content design and design systems consultant, making the case for simplicity and inclusion in the face of complexity.
 ---
 
+<div class="image">
+	<figure>
+		<img src="/assets/images/amy-profile.jpg" alt="Amy sits on her sofa smiling and holding a cup of tea. Her laptop is open on her lap. a colourful bookshelf is visible in the background" width="100%">
+	</figure>
+</div>
+
 Right now, I'm working on design systems at [Springer Nature](https://www.springernature.com/gp).
 
 I've worked as product owner for design systems at [BT](https://www.bt.com/broadband/deals?s_cid=con_ppc_maxus_vidZ60_T1&vendorid=Z60&ds_rl=1000720&ds_rl=1276299&ds_rl=1276299&gclid=CjwKCAjwjLD4BRAiEiwAg5NBFrjq0XCXNtJ3XyMsXWY4SKSQhRhBAIKRbfG1_ZsBxhGvWYcSOG78ehoC_q4QAvD_BwE&gclsrc=aw.ds) and [Babylon Health](https://www.babylonhealth.com/) and I spent 3 years at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) as content lead for the [GOV.‌UK Design System](https://design-system.service.gov.uk/).
