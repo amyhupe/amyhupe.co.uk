@@ -176,9 +176,9 @@ And although it didn’t come up in that research specifically, I’d also add a
 
 What this shows is that it’s far too easy to introduce barriers when we invite people to contribute to design systems - unless we’re really intentional about understanding what they need and what challenges they might face. 
 
-For example, if people need time to contribute, one thing that’s almost certainly going to make it hard it has to be done in their spare time because it’s not considered part of their role.
+For example, if people need time to contribute, one thing that’s almost certainly going to make it hard is if it has to be done in their spare time because it’s not considered part of their role.
 
-Aside from people who aren’t up for working in their spare time - which is, you know, fair enough - this will disproportionately impact people who have caring responsibilities outside of work, like parents and careers.
+Aside from people who aren’t up for working in their spare time - which is, you know, fair enough - this will disproportionately impact people who have caring responsibilities outside of work, like parents and carers.
 
 So we can address this barrier by working with managers and discipline leads in our organisation to make contribution a recognised part of people’s roles. This gives people a more of an equal chance to contribute. 
 
