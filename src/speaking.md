@@ -34,7 +34,7 @@ I'm currently taking bookings for events in 2023.
 
 As with my work, a strong theme of the talks I give is inclusivity and human-centeredness. 
 
-With that in mind, I prioritise speaking at events where the origanisers have made a clear effort to recruit a diverse lineup of speakers and to support people from all backgrounds to attend.
+With that in mind, I prioritise speaking at events where the organisers have made a clear effort to recruit a diverse lineup of speakers and to support people from all backgrounds to attend.
 
 I will not participate in any panels or speak at any events with all-white lineups.
 
