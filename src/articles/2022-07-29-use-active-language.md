@@ -65,7 +65,7 @@ When we’re writing for busy designers and developers, it pays to do all we can
 
 Research on whether the active voice is _always_ easiest to read is mixed. 
 
-My first-hand experience of observing people reading documentation in user research says that it is to parse - and there's some evidence to support this.
+But my first-hand experience of observing people reading documentation in user research says that it's generally easier to parse - and there's some evidence to support this.
 
 Jan Spyridakis, quoted in the [GOV.UK Content Manual](https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background/govuk-content-principles-conventions-and-research-background#writing-using-the-active-voice), explains:
 
