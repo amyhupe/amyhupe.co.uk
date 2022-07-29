@@ -48,7 +48,7 @@ Let’s look at some examples of how active and passive language might appear in
 
 There’s lots of research to show how using the active voice makes content clearer and more readable in general.
 
-Organisations that recommend using the active voice inclide:
+Organisations that recommend using the active voice include:
 
 - [The US Government](https://www.plainlanguage.gov/guidelines/conversational/use-active-voice/#sources)
 - [GOV.UK](https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background/govuk-content-principles-conventions-and-research-background#writing-using-the-active-voice)
