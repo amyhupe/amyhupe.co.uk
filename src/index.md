@@ -22,15 +22,15 @@ I care about making services accessible and inclusive, starting with the basics 
 
 ## Latest articles and talks
 
+[Design systems for humans](/articles/design-systems-for-humans/)
+
+[Crediting contributors in design systems](/articles/crediting-design-system-contributors)
+
 [Why it's time to update our language about bad design patterns](/articles/changing-our-language-on-bad-patterns) (blog post)
 
 [How to share research in design systems](/articles/sharing-research-in-design-systems) (blog post)
 
 [Structuring documentation in multi-brand design systems](/articles/structuring-documentation-multi-brand-design-systems) (blog post)
-
-[How to become unstuck when writing](articles/sprint-to-the-finish-line) (blog post)
-
-[Design systems and structured content](articles/design-systems-structured-content) (blog post)
  
 ## Things I've written elsewhere
 

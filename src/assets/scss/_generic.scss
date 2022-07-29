@@ -381,3 +381,39 @@ table.a {
 	table.a tr td:first-of-type {
 	font-weight: bold;
 	}
+
+table.b {
+	max-width: 90%;
+	font-size: rem(18px);
+	line-height: rem(25px);
+	text-align: left;
+	vertical-align: text-bottom;
+	
+	@include
+	 mq($from: md) {
+	max-width: 75%;
+	font-size: rem(22px);
+	line-height: rem(35px);
+	}
+	}
+	
+	table.b th {
+	padding: 15px;
+	font-size: rem(19px);
+	line-height: rem(25px);
+	
+	@include
+	 mq($from: md) {
+	font-size: rem(23px);
+	line-height: rem(35px);
+	}
+	}
+	
+	table.b td {
+	padding: 15px;
+	vertical-align: top;
+	}
+	
+	table.b tr {
+	vertical-align: top;
+	}
