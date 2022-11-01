@@ -5,7 +5,7 @@ date:   2022-09-23
 categories: design systems
 description: The eco-political forces impeding our design system contribution models.
 ---
-_This article is based on a talk I delivered at Converge London 2022. I will add a link to the video here when it's available._
+_This article is based on [a talk I delivered at Converge London 2022 - here's the video in case you'd prefer to watch it](https://www.youtube.com/watch?v=2xvq7CLlEkw&t=1573s)._
 
 [In 2020, Nathan Curtis wrote](https://medium.com/eightshapes-llc/why-contributions-matter-22652d8676c6):
 
