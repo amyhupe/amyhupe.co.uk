@@ -26,7 +26,7 @@ One of the UK Government Digital Service (GDS) design principles is [“Be consi
 
 While GDS advocates using the same language and design patterns to create familiarity, but acknowledges that circumstances vary and context must guide individual design decisions.
 
-Where it’s not possible to follow design and content patterns, GDS advises its designers to “make sure our approach is consistent” and this - I think - is an important distinction.
+Where it’s not possible to follow design and content patterns, GDS advises its designers to “make sure our approach is consistent” - and I think this is an important distinction.
 
 Visual and functional consistency of individual components and design patterns is one _version_ of consistency - but it’s not the only one.
 
@@ -40,7 +40,7 @@ Taken from Google, here are the (relevant) definitions for the common terms desi
 
 - *Cohesion* is “the action or fact of forming a united whole”
 - *Alignment* is “a position of agreement or alliance”
-- *Unity* is the state of being united or joined as a whole
+- *Unity* is "the state of being united or joined as a whole"
 
 If “consistency” as a term feels too constraining, then perhaps the intent of using these words is to create space through ambiguity. 
 
