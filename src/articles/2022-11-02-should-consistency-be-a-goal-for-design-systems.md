@@ -14,6 +14,12 @@ The goal of swapping these terms around, as far as I can tell, is to combat the 
 
 Personally? I don’t think ditching the word “consistency” is the fix we’re looking for.
 
+<div class="image">
+	<figure>
+		<img src="/assets/images/consistency-meme.jpeg" alt="Popular meme depicting a man and a woman walking hand in hand. The man is looking over his shoulder appreciatively at another woman, while his partner looks on angrily. The man represents the fear design system teams have that using the word consistent will make product designers think design systems stifle creativity.The woman he's eyeing up represents the option to swap the word consistency for unified, cohesive or aligned, instead.And his scorned partner represents the option to keep using the word consistency, and simply explain that design systems don't stifle creativity." width="100%">
+	</figure>
+</div>
+
 ## Consistency ≠ everything looking the same
 
 One of the UK Government Digital Service (GDS) design principles is [“Be consistent, not uniform”](https://www.gov.uk/guidance/government-design-principles#be-consistent-not-uniform). 
