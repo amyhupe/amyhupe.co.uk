@@ -24,7 +24,7 @@ But what if we looked at things differently? What if we considered that before w
 And _that_ system might consist of:
 
 - designers creating prototypes in local Sketch libraries
-- a siloed handover design-to-dev handover process
+- a siloed design-to-dev handover process
 - developers working in localised, fragmented, frontend code libraries 
 - lots of inconsistencies in our user experience
 
