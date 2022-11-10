@@ -39,7 +39,9 @@ Imagine if every time we wanted to ask our follows to retweet something, we had 
 
 Most of us who use Twitter, even moderately, use it regularly enough that the initial language learning barrier has paid for itself many times over with the speed those terms now afford us.
 
-That initial jargon-induced learning barrier still existed once, for all of us, but it’s passed.### The overhead of learning jargon is transient
+That initial jargon-induced learning barrier still existed once, for all of us, but it’s passed.
+
+### The overhead of learning jargon is transient
 
 As I write this, [many people are flocking to Mastodon](https://www.theguardian.com/technology/2022/nov/08/mastodon-what-is-it-how-do-i-join-use-find-best-server-list-change-elon-musk-twitter-leaving-social-network-alternative) and - myself included - commenting on the initial impenetrability of the platform’s language conventions:
 
