@@ -2,7 +2,7 @@
 title: Inclusion doesn't come for free with open source software
 date:   2022-11-14
 categories:
-description: 
+description: Why inclusivity is not an inherent feature of open source software.
 ---
 
 At the time of writing this, [many people are setting up Mastodon accounts](https://www.theguardian.com/technology/2022/nov/08/mastodon-what-is-it-how-do-i-join-use-find-best-server-list-change-elon-musk-twitter-leaving-social-network-alternative) - an open source social media platform - in response to Elon Musk's takeover of Twitter.
