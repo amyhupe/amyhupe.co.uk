@@ -5,6 +5,16 @@ categories:
 description: How can we focus less on artefacts in design systems, and work consciously to build inclusive design systems that put people at their heart?
 ---
 
+<blockquote>
+<p>This post is based on my recent talk, Building conscious design systems, which I gave at WDC and GOV Design Systems Day.
+
+Here's the [WDC version](https://www.youtube.com/watch?v=n_HchcVRo0M&feature=youtu.be) if you prefer to watch it.
+</p>
+</blockquote>
+
+</br>
+</br>
+
 When we talk about the benefits of design systems, the 3 most common promises are:
 
 - efficiency: a design system will reduce waste in your design and development processes, and help you go faster
