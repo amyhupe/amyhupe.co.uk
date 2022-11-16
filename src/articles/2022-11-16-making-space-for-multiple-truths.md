@@ -23,7 +23,9 @@ And it’s left me reflecting on the importance of holding space for multiple, s
 
 [Florence Okoye](https://twitter.com/finokoye) opened the day with an important message about empowering the people we’re designing for.
 
-She advised us to consider the relationships we want to create between us and the people we’re creating for, asking: “Is it one of solidarity? Assistance? Support? Is it reparative?” Unless we take time to build these relationships with those communities, we can’t design inclusive, empowering experiences for them.
+She advised us to consider the relationships we want to create between us and the people we’re creating for, asking: “Is it one of solidarity? Assistance? Support? Is it reparative?” 
+
+Unless we take time to build these relationships with those communities, we can’t design inclusive, empowering experiences for them.
 
 [Lex Lofthouse](https://twitter.com/Loftio) pitched her talk at developers, arming them with knowledge and techniques to make intentional design choices in their work. I really like the idea of sharing responsibility for the outcomes of our work across disciplines, in contrast to the hard distinctions we often aim to draw between different roles.
 
@@ -58,13 +60,15 @@ As a once shy and awkward teen who spent many hours honing the perfect `<marquee
 
 [Lily Madar](https://twitter.com/lily_2point0)’s talk, programming with yarn, was a perfect portion of post-lunch ASMR, drawing comparisons between crochet and computer programming with videos from a corner of the web I’m henceforth dubbing “LoomCore”.
 
-Finally, [Ruth John](https://twitter.com/rumyra) wrapped up the conference with a discotechnique delight constructed in the browser using a series of clever media APIs. As one of the Non-DevelopersTM, the technicalities of this one were a little beyond my understanding, but give me some chilled beats and pretty lights and I’m happy.
+Finally, [Ruth John](https://twitter.com/rumyra) wrapped up the conference with a discotechnique delight constructed in the browser using a series of clever media APIs. As one of the Non-DevelopersTM in the audience, the technicalities of this one were a little beyond my understanding, but give me some chilled beats and pretty lights and I’m always happy.
 
 ## Life is not binary
 
-As I alluded to in the introduction, my prevailing takeaway from the day is this: We have to make space for multiple, competing truths in our work.
+As I alluded to in the introduction, my prevailing takeaway from the day is this: 
 
-As the people creating the digital world, we can accept the responsibility that comes with our work, and embrace the futility of our mission, and find moments of joy along the way.
+We have to make space for multiple, competing truths in our work.
+
+As the people creating the digital world, we can accept the responsibility that comes with our work, _and_ recognise the futility of our mission, _and_ find moments of joy along the way.
 
 Sometimes I feel such pressure to take a stance that I forget to engage with the messy middle ground - but that’s what life is. It’s a series of “and”s. 
 
