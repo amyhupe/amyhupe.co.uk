@@ -1,6 +1,6 @@
 ---
 title: "Making space for multiple truths: Reflections from FF Conf 2022"
-date:   2022-11-15
+date:   2022-11-16
 categories:
 description: How can we focus less on artefacts in design systems, and work consciously to build inclusive design systems that put people at their heart?
 ---
