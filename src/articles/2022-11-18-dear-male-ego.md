@@ -22,7 +22,7 @@ The reason that you interrupt me, belittle me, dismiss me, circumvent me, exclud
 
 And I can keep empathising and psychoanalysing and trying to understand you, but here’s the thing: I am tired. Exhausted, in fact.
 
-Because all these things that you do to me that have nothing to do with me have exhausted me. 
+Because all these things that you do to me - that have nothing to do with me - have exhausted me. 
 
 And isn’t that funny, when you think about it? 
 
