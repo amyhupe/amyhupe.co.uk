@@ -26,9 +26,9 @@ Because all these things that you do to me - that have nothing to do with me - h
 
 And isn’t that funny, when you think about it? 
 
-All these things that you’ve done to me, all these doubts you’ve given me, all these ways that you’ve exhausted me, you’ve done without me even in mind. 
+All these things that you’ve done to me, all these doubts you’ve given me, all these ways that you’ve exhausted me, you’ve done without even having me in mind. 
 
-And none of these things that I’ve done to protect you from feeling threatened, to make you feel important, to try and stop you from feeling that you needed to do those things to me, I’ve done without me in mind.
+And none of these things that I’ve done to protect you from feeling threatened, to make you feel important, to try and stop you from feeling that you needed to do those things to me, _I’ve_ done without even having me in mind.
 
 Because I now realise that we’ve both had you in mind, this whole time. 
 
