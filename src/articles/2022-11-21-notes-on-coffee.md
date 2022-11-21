@@ -16,7 +16,7 @@ Maybe that’s why people tell me I take too long to drink my coffee. My last si
 
 I’m not a snob when it comes to the particular mode of caffeination. I make room for all of it.
 
-You know how, with music, even a song you don’t really like, in the right moment can give you goosebumps? I feel the same about coffee. 
+You know how, with music, even a song you don’t really like can give you goosebumps in the right moment? I feel the same about coffee. 
 
 I like fancy coffee, made for me by an East London barista in perspex-rimmed glasses, and sipped in an establishment that charges me £18 for the privilege of sitting against a peeling wall, on a wooden chair salvaged from a skip. 
 
