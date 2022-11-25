@@ -25,7 +25,7 @@ When I approached the conversation with friends and family, the tale of the swit
 
 But I'm the wrong sort of "not ready". I'm the kind of not ready that isn't ready to let go of the need to feel more ready than this, and isn't ready to give up either.
 
-I’ve become an expert in spotting the signs: The sudden onset of absence from social media. The excuses for not coming to social events. The clear, ambiguous drinks when they do - something chosen to look like a gin and tonic which could just as easily be a sparkling water. The out-of-the-blue invitation to catch up, with partners in tow. The hum of silences, overflowing with the unspoken thing that’s about to be spoken. The cue you give them. “So what have you been up to?” or “Can I get you a drink?” is all they need. The briefest exchange of glances before one of them says “Well, actually…” and the announcement that follows. 
+I’ve become an expert in spotting the signs of other people's pregnancies: The sudden onset of absence from social media. The excuses for not coming to social events. The clear, ambiguous drinks when they do - something chosen to look like a gin and tonic which could just as easily be a sparkling water. The out-of-the-blue invitation to catch up, with partners in tow. The hum of silences, overflowing with the unspoken thing that’s about to be spoken. The cue you give them. “So what have you been up to?” or “Can I get you a drink?” is all they need. The briefest exchange of glances before one of them says “Well, actually…” and the announcement that follows. 
 
 And I smile and I hug them and I tell them how excited I am for them. I ask them when they found out; how they’ve been feeling. James squeezes my hand. And as soon as I can I go somewhere quiet, and I sob and I hate myself for it.
 
@@ -35,7 +35,7 @@ I don’t know if I’ll get to decide, or if time will decide for me, or if som
 
 Being undecided sounds like a neutral thing, but it’s not. Not for me, anyway.
 
-For me, ambivalence is a torturous, insidious thing wrapped layers of fear, and pain, and warring parts of me that paddle frantically in opposite directions to save themselves as the lifeboat - me - slowly sinks.
+For me, ambivalence is a torturous, insidious thing wrapped in layers of fear, and self-doubt, and shame, and warring parts of me that paddle frantically in opposite directions to save themselves as the lifeboat - me - slowly sinks.
 
 I feel like I’ve failed. I’ve failed to develop that maternal instinct that’s expected of women and I’ve failed to commit to being childfree by choice.
 
