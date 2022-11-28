@@ -87,6 +87,6 @@ I’d love to hear from you if:
 - you’re exploring solutions to this problem
 - you’ve solved this problem already (Hurrah!)
 
-If that’s you, you can amy.l.hupe@gmail.com, or contact me on [Twitter](twitter.com/amy_hupe) or [Mastodon](https://social.design.systems/@Amy_Hupe).
+If that’s you, you can email me at amy.l.hupe@gmail.com, or contact me on [Twitter](twitter.com/amy_hupe) or [Mastodon](https://social.design.systems/@Amy_Hupe).
 
 
