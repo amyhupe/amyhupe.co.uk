@@ -63,7 +63,7 @@ Although this strategy was emotionally-challenging for us and frustrating for ou
 
 Towards the end of the session, we ventured into a well-trodden debate about whether design systems should be thought of as products. Some participants felt that framing them as such would help organisations’ leaders to understand the need for sustained investment.
 
-Personally, while I think that the product-framing is certainly an improvement upon the notion of design systems as finite pro_jects_, I don’t think it’s quite right.
+Personally, while I think that the product-framing is certainly an improvement upon the notion of design systems as finite _projects_, I don’t think it’s quite right.
 
 My experience has been that the term “product” comes with a weight of expectation that’s not always conducive to sensible systems work. That design systems sit a layer away from “end users”, and have to take into account the needs of multiple product teams, means that they move at a necessarily slower pace than individual products. 
 
