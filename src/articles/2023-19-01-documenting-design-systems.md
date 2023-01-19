@@ -1,6 +1,6 @@
 ---
 title: "Documenting design systems: Reflections from this month's design systems open space"
-date:   2023-19-01
+date: 2023-19-01
 categories: design systems, documentation
 description: Good documentation is a pillar of successful design systems, but it's something most of us find daunting. We gathered together at this month's design systems open space to discuss.
 ---
