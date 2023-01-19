@@ -47,8 +47,8 @@ The big challenge we have today is how to achieve this in a way that’s maintai
 
 I’ve written about this problem previously:
 
-[We document our design systems, so why don’t we systematise our docs](/articles/modular-design-system-documentation/)
-[Design systems and structured content](articles/design-systems-structured-content/)
+- [We document our design systems, so why don’t we systematise our docs](/articles/modular-design-system-documentation/)
+- [Design systems and structured content](articles/design-systems-structured-content/)
 
 To my knowledge, answers to this problem remain incomplete and thin on the ground, so I was excited when one participant shared that they’d been working on a custom tool that might be able to support this. I’ll be keeping a close eye on their progress.
 
@@ -56,7 +56,7 @@ To my knowledge, answers to this problem remain incomplete and thin on the groun
 
 Another oft-overlooked aspect of design systems documentation is how to measure its performance over time. Whilst many of us strive to track generic system metrics like component usage, contribution, and user satisfaction - only a minority seem to actively monitor the efficacy of documentation. 
 
-One attendee recommended looking to support requests as a source of insight into how far our documentation is meeting people’s needs. It reminded me of a system we established during my time on the [GOV.UK Design System](design-system.service.gov.uk] team, where we’d tag our docs-related support tickets by issue type (for example: couldn’t find; doesn’t exist; didn’t understand), and topic (for example: component; contribution; installation). 
+One attendee recommended looking to support requests as a source of insight into how far our documentation is meeting people’s needs. It reminded me of a system we established during my time on the [GOV.UK Design System](design-system.service.gov.uk) team, where we’d tag our docs-related support tickets by issue type (for example: couldn’t find; doesn’t exist; didn’t understand), and topic (for example: component; contribution; installation). 
 
 We’d track the quantity of different query types and keywords, and review each month to find areas for improvement.
 
@@ -72,7 +72,9 @@ One participant remarked “Documentation gives me the most imposter syndrome of
 
 And this, I think, is because _good_ documentation is hard to get right. It’s easy to look at unread documentation and assume that our design system’s users have a generic aversion to reading - that they just want to grab components and go, ungratefully eschewing all of our carefully-crafted guidance.
 
-More often than not, it’s because our documentation is failing to give them what they need. When we provide people with too much or too little information, fail to address their particular context or skillset, or our documentation is poorly named signposted, they’ll naturally circumvent our guidance in favour of approaching us directly. In short, they’ll take the path of least resistance.
+More often than not, it’s because our documentation is failing to give them what they need. When we provide people with too much or too little information, fail to address their particular context or skillset, or our documentation is poorly named and signposted, they’ll naturally circumvent our guidance in favour of approaching us directly. 
+
+In short, they’ll take the path of least resistance.
 
 ## Learn how to write design systems documentation that works
 
@@ -82,9 +84,9 @@ I understand the challenges people face when writing documentation, and I truly 
 
 So in a few weeks’ time I’m running 2 half-day training sessions on writing design systems documentation:
 
-[Writing design systems documentation training, 8 Feb](https://bit.ly/3Whc546
+- [Writing design systems documentation training, 8 Feb](https://bit.ly/3Whc546
 )
-[Writing design systems documentation training, 15 Feb](https://bit.ly/3COLVik
+- [Writing design systems documentation training, 15 Feb](https://bit.ly/3COLVik
 )
 
 There are just a few spots left now, and I’d love to have you along if you can make it.
