@@ -47,8 +47,8 @@ The big challenge we have today is how to achieve this in a way that’s maintai
 
 I’ve written about this problem previously:
 
-- [We document our design systems, so why don’t we systematise our docs](/articles/modular-design-system-documentation/)
-- [Design systems and structured content](articles/design-systems-structured-content/)
+- [We document our design systems, so why don’t we systematise our docs?](/articles/modular-design-system-documentation/)
+- [Design systems and structured content](/articles/design-systems-structured-content/)
 
 To my knowledge, answers to this problem remain incomplete and thin on the ground, so I was excited when one participant shared that they’d been working on a custom tool that might be able to support this. I’ll be keeping a close eye on their progress.
 
