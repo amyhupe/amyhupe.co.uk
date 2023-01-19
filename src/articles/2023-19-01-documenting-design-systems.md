@@ -56,7 +56,7 @@ To my knowledge, answers to this problem remain incomplete and thin on the groun
 
 Another oft-overlooked aspect of design systems documentation is how to measure its performance over time. Whilst many of us strive to track generic system metrics like component usage, contribution, and user satisfaction - only a minority seem to actively monitor the efficacy of documentation. 
 
-One attendee recommended looking to support requests as a source of insight into how far our documentation is meeting people’s needs. It reminded me of a system we established during my time on the [GOV.UK Design System](design-system.service.gov.uk) team, where we’d tag our docs-related support tickets by issue type (for example: couldn’t find; doesn’t exist; didn’t understand), and topic (for example: component; contribution; installation). 
+One attendee recommended looking to support requests as a source of insight into how far our documentation is meeting people’s needs. It reminded me of a system we established during my time on the [GOV.UK Design System](https://design-system.service.gov.uk/) team, where we’d tag our docs-related support tickets by issue type (for example: couldn’t find; doesn’t exist; didn’t understand), and topic (for example: component; contribution; installation). 
 
 We’d track the quantity of different query types and keywords, and review each month to find areas for improvement.
 
