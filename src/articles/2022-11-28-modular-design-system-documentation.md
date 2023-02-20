@@ -80,13 +80,23 @@ He, along with his team at Stripe, are running some experiments in this area.
 
 I’ll be watching their efforts with interest, though I think Chase would concede that they haven’t yet unearthed any kind of silver bullet.
 
-## Over to you… 
+## Update on 20 Feb: Do you want to work on this?
 
-I’d love to hear from you if:
-- you’re also interested in this problem
-- you’re exploring solutions to this problem
-- you’ve solved this problem already (Hurrah!)
+My colleague [Heydon Pickering](https://heydonworks.com/) and I have been exploring this space for a while now, and are currently nearing the end of our contracts with [Springer Nature](https://www.springernature.com/gp).
 
-If that’s you, you can email me at amy.l.hupe@gmail.com, or contact me on [Twitter](twitter.com/amy_hupe) or [Mastodon](https://social.design.systems/@Amy_Hupe).
+From 1 April 2023, we'll be available for new client engagements, and we'd love to work on this problem with an organisation who's interested in taking an ambitious approach to its design system documentation.
+
+Between us, Heydon and I have 15 years' experience working on documentation - with a large chunk of that focused on design systems. We've worked with clients including:
+
+- [The BBC](https://www.bbc.co.uk/) 
+- [The Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service) 
+- [Spotify](spotify.com) 
+- [BT](https://www.bt.com/)
+- [Springer Nature](https://www.springernature.com/gp)
+- [TGPi (formerly the Paciello Group)](https://www.tpgi.com/).
+
+While Heydon's documentation skillset comprises frontend design and development, and accessibility, mine concentrates on design systems strategy and management, user centred design, and content design. Between us, we have a broad set of tools and experience to tackle this problem.
+
+If that’s you, email me at amy.l.hupe@gmail.com, or contact me on [Twitter](twitter.com/amy_hupe) or [Mastodon](https://social.design.systems/@Amy_Hupe). 
 
 
