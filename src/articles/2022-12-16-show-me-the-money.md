@@ -79,4 +79,4 @@ Even after initial investment, design system teams remain vulnerable to cutbacks
 
 Advocacy from allies in our organisations can prove essential in helping us to weather periods of uncertainty, so it’s important to invest time and effort in relationships and community-building.
 
-So you might say - if you were totally basic and unimaginitive - that when it comes down to it, design systems are ultimately about people.
+So you might say - if you were totally basic and unimaginitive - that when it comes down to it, design systems are ultimately about people. 
