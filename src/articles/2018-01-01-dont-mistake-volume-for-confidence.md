@@ -6,7 +6,7 @@ categories: mental health
 description: What it's like being an anxious extrovert, and why you shouldn't confuse volume with confidence. 
 ---
 
-I’ve found myself talking about anxiety recently with a few people who didn’t know I suffer with it.
+I’ve found myself talking about anxiety recently with a few people who didn’t know I suffer with it. 
  
 There’s no special reason for them not knowing. I stopped trying to hide my anxiety a good few years ago – I just don’t feel compelled to talk about it much. Frankly, I just don’t feel it’s the most important or interesting thing about me.
  
