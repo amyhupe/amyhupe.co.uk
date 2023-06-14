@@ -22,15 +22,15 @@ I care about making services accessible and inclusive, starting with the basics 
 
 ## Latest articles and talks
 
+[How to write shit documentation](https://youtu.be/z7p60pe7U5o) (talk)
+
+[Documenting design systems](articles/documenting-design-systems/) (blog post)
+
 [Getting investment for design systems](/articles/show-me-the-money/) (blog post)
 
 [A new barrier for communicating about design systems](/articles/explaining-design-systems/) (blog post)
 
 [We document our design systems, why don't we systematise our docs?](/articles/modular-design-system-documentation/) (blog post)
-
-[Should design systems include problematic components and patterns?](/should-design-sytsmes-include-anti-patterns/) (blog post)
-
-[Down with design systems dogma](/articles/down-with-dogma/) (blog post)
  
 ## Things I've written elsewhere
 
