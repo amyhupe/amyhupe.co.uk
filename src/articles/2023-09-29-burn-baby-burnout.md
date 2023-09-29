@@ -32,9 +32,9 @@ I want to start off with a definition of burnout to make sure we’re all on the
 
 The technical term was first coined by a psychologist called [Herbert Freudenberger](https://en.wikipedia.org/wiki/Herbert_Freudenberger) in 1975. It was characterised by 3 components:
 
-- Emotional exhaustion - the fatigue that comes from caring too much, for too long
-- Depersonalization - the depletion of empathy, caring and compassion
-- Decreased sense of accomplishment - an unconquerable sense of futility: feeling that nothing you do makes any difference
+1. Emotional exhaustion - the fatigue that comes from caring too much, for too long
+2. Depersonalization - the depletion of empathy, caring and compassion
+3. Decreased sense of accomplishment - an unconquerable sense of futility: feeling that nothing you do makes any difference
 
 And when it comes to design systems, I think it’s the third component that most commonly leads us to burnout.
 
@@ -234,7 +234,7 @@ In fact, I’d say it’s the very qualities that make us good at our jobs - our
 
 And in the same vein, I think that the reasons we’re drawn to this work in the first place - the desire to help people, to have an impact, to make a difference - that can end up driving us out of it.
 
-It makes me think of this meme:
+It makes me think of this meme created by [Adam JK](https://twitter.com/adamjk):
 
 <div class="image">
 	<figure>
