@@ -27,7 +27,7 @@ kbd {
 
 a:link,
 a:visited {
-	color: inherit;
+	color: #ad0c1f;
 }
 
 a:hover,
@@ -61,10 +61,10 @@ main {
 }
 
 .heading-measure {
-	border-left: 5px solid #0B0C0C;
+	border-left: 5px solid #494A4C;
 	padding-left: 20px;
 	@include mq($from: md) {
-		border-left: 10px solid #0B0C0C;
+		border-left: 10px solid #494A4C;
 		padding-left: 30px;
 	}
 }
