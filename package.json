@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "npm run clean && npm run generate-dev & npm run sass-dev",
+    "start": "npm run clean && npm run sass-dev && npm run generate-dev",
     "build": "npm run clean && npm run sass && npm run generate",
     "clean": "rm -rf dist",
     "sass": "sass --style compressed --no-source-map src/assets/scss:dist/assets/css",
