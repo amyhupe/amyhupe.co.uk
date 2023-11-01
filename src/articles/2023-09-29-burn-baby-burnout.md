@@ -46,7 +46,7 @@ They are that:
 - We value outputs over outcomes
 - Design systems are seen as static products, not living services
 - Design system value is hard to quantify
-- We hear more about our successes than our failures
+- We hear more about our failures than our successes
 - Our lens is too wide
 
 So let’s look at each of those in more detail, starting with the first.
@@ -234,7 +234,7 @@ In fact, I’d say it’s the very qualities that make us good at our jobs - our
 
 And in the same vein, I think that the reasons we’re drawn to this work in the first place - the desire to help people, to have an impact, to make a difference - that can end up driving us out of it.
 
-It makes me think of this meme created by [Adam JK](https://twitter.com/adamjk):
+It makes me think of this meme created by [Adam JK](https://twitter.com/adamjkls):
 
 <div class="image">
 	<figure>
