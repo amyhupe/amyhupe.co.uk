@@ -8,11 +8,11 @@ description: Notes on burnout, from the depths of burnout.
 
 I am burnt out.
 
-It’s 5:30pm and I’m just sitting down to write today’s NaBloPoMo post, and the only thing I can think to write about is that I am exhausted.
+It’s 5:30pm and I’m just sitting down to write today’s [NaBloPoMo](https://www.easytechjunkie.com/what-is-nablopomo.htm?utm_content=cmp-true) post, and the only thing I can think to write about is that I am exhausted.
 
 I stopped working full-time in April and I’m just beginning again now. A foreplanned 2-month break turned into 6, and could easily stretch to the end of the year if not for my declining bank balance and a nagging sense that I ought to keep the lights on in my broken brain by putting it to good use.
 
-I am burnt out. A series of personal and global crises have as good as ground me to a halt, and the many conversations that followed my recent talk: “It all means nothing in the end” have confirmed to me that I’m far from the only one.
+I am burnt out. A series of personal and global crises have as good as ground me to a halt, and the many conversations that followed my recent talk: “[It all means nothing in the end](https://2023.stateofthebrowser.com/speaker/amy-hupe/)” have confirmed to me that I’m far from the only one.
 
 I drift through my days like a sad ghost, alternating between caffeine-induced pep and a few too many lie-downs for a 34 year old woman.
 
