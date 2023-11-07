@@ -5,6 +5,7 @@ categories: Design systems
 description: What I learned from making a podcast about how design systems can perpetuate systemic bias, and how to mitigate that. 
 
 ---
+_This post is based on a talk I gave at this year's [Smashing Conf in Freiburg](https://smashingconf.com/freiburg-2023), I'll add a link to the talk once it's available.
 
 When we talk about the benefits of design systems, we tend to repeat 3 promises. 
 
