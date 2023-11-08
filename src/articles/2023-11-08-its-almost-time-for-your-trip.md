@@ -10,7 +10,7 @@ description: A case study in why thoughtful content matters
 
 I looked at the boxes around me with a lump in my throat. Boxes of my clothes, books, the cafetiere we bought together (I didn’t take much but I couldn’t do without fresh coffee in the morning). I looked at our wedding photos on the bookshelf: I wouldn’t be packing those.
 
-My cat walked in and wound herself around my legs, purring. “Do you know I’m leaving?” I thought. I bent down and scratched her head and she bowed her head accordingly. “How quickly will you forget me?” 
+My cat walked in and wound herself around my legs, purring. “Do you know I’m leaving?” I thought. I bent down and scratched her neck and she bowed her head accordingly. “How quickly will you forget me?” 
 
 There were a lot of things I needed in that last week at home, as I prepared to move out of our marital home into an AirBnB round the corner, so we could trial separation: a hug; some reassurance; to know if I’d ever be coming back.
 
