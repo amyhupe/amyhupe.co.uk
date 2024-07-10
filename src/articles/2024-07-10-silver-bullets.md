@@ -23,15 +23,15 @@ Fake it till you make it. Delulu is the solulu.
 
 And so I said affirmations: “I am happy, I am loved, I am enough”. I said them 33 times in a row, 3 times a day, and I waited patiently for my life to change. I waited and I waited and I waited.
 
-When nothing changed, a heavily-filtered 20-year-old by the name of Psychic Brianne diagnosed the stagnancy as a symptom of my low vibrational frequency. The fact that my life was falling apart was, I learned neither here nor there. My circumstances were irrelevant, and nothing but a sorry excuse for languishing, and I needed to dial down my pessimism and tune into a frequency of abundance.
+When nothing changed, a heavily-filtered 20-year-old by the name of Psychic Brianne diagnosed the stagnancy as a symptom of my low vibrational frequency. The fact that my life was falling apart was, she explained, neither here nor there. My circumstances were irrelevant, and nothing but a sorry excuse for languishing, and I needed to dial down my pessimism and tune into a frequency of abundance.
 
 I put myself in nature. 
 
 To feel depressed sitting on a log by a lake, I discovered, was considered spiritually superior to feeling depressed on a sofa covered in Dorito dust. 
 
 Now it’s true that depression _feels_ the same wherever you’re sat. Nevertheless, I suspected that the transformation I sought was not to be found rattling around with the stale pizza crusts in the box on my living room floor, listening to the couple next door arguing for the 5th time that week about whose turn it was to take the chihuahua outside to defecate.
-W
-hen the present failed to deliver the enlightenment I needed, I decided instead to look to the future. 
+
+When the present failed to deliver the enlightenment I needed, I decided instead to look to the future. 
 
 I booked readings with psychics and tarot readers. 
 
@@ -39,7 +39,7 @@ I nodded eagerly at the bullseyes (yes I _am_ grieving, how did you know that?!)
 
 I took the crystals they gave me and put them in my pocket along with their prophecies: surprise but welcome pregnancies, reconciliation, and the sudden and unforeseen financial windfall that was due in October but so far remains lost in the post.
 
-In the autumn, as I found myself still childless, alone and staring down the barrel of my overdraft, I discovered the sacred wisdom of gut health. Did you know that 78% of your serotonin receptors live in your gut and not, as we’ve been fooled into believing, in your brain?
+In the autumn, as I found myself still childless, alone and staring down the barrel of my overdraft, I discovered the sacred wisdom of gut health. Did you know that 95% of your serotonin is produced in your gut and not, as we’ve been tricked into believing, in your brain?
 
 I hired a nutritional therapist. 
 
@@ -49,7 +49,9 @@ I sent weekly reports on my mood and my menstrual cycle and the condition of my 
 
 I threw myself into work. 
 
-I delivered inspirational conference talks about existential crisis and burnout, and everyone applauded my candour and strength. I woke up on the morning of one such talk in Manchester to discover I couldn’t breathe properly and went with my friend to the hospital where we watched make-up tutorials on her phone in between chest X-rays, blood tests and ECGs. “You’re stressed” the doctor told me. “No shit” I laughed, and he didn’t laugh back, but he gave me a packet of valium and god bless his soul for that.
+I delivered inspirational conference talks about existential crisis and burnout, and everyone applauded my candour and strength. I woke up on the morning of one such talk in Manchester to discover I couldn’t breathe properly and went with my friend to the hospital where we watched make-up tutorials on her phone in between chest X-rays, blood tests and ECGs. 
+
+“You’re stressed” the doctor told me. “No shit” I laughed. He didn’t laugh back, but he gave me a packet of valium and god bless his soul for that.
 
 I went to my therapist. 
 
@@ -67,7 +69,7 @@ I exercised and I drank too much and I stopped drinking and then started drinkin
 
 I smoked weed and ate gummies and thought about taking mushrooms or ayahuasca and then remembered I’m terrified of hallucinogens. 
 
-I partied with people I didn’t like and failed to respond to return calls to people I did.
+I partied with people I didn’t like and failed to return the calls of people I did.
 
 I meditated and did yoga and I re-read The Power of Now and I tried to be present and failed.
 
@@ -80,6 +82,8 @@ Not knowing is an inescapable part of the human experience. Your lack of answers
 Our only job, it seems, is to go boldly into the wild unknown. Embrace the futility and find some meaning in amongst it. The mess, it seems, is where the living happens.
 
 I don’t have a silver bullet and I’m going to be okay with that. 
+
+I really am.
 
 Any day now.
 
