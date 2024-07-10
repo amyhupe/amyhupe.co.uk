@@ -73,6 +73,8 @@ I partied with people I didn’t like and failed to return the calls of people I
 
 I meditated and did yoga and I re-read The Power of Now and I tried to be present and failed.
 
+I thought about how small my problems were compared with all of the enormous problems in the world today and I felt guilty and remained depressed.
+
 And at the end of all of it, I’m still no closer to the answer.
 
 Socrates said that a wise man knows that he knows nothing, and I’m afraid he might have been right.
